@@ -126,7 +126,7 @@
 		<reward type="Quest" id="quest_AdvancedSurvival1"/>
 	</quest>
 	<!-- Advanced Survival 1 - Kill an Animal and Craft a Bone Shiv /> -->
-	<quest id="quest_AdvancedSurvival1" group_name_key="Advanced Survival" name_key="Advanced Survival 1/7" subtitle_key="Kill 3 Animals"  description_key="Hunting is very important for resources. Hunt 3 animals and kill them for their resources. Acquire a femur and craft a bone shiv. You can then harvest it using a bone shiv or knife. Birds and Pigs will give you White Meat while Cows, Deer and Bears will give you Red Meat." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival1" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival1" subtitle_key="quest_AdvancedSurvival1_subtitle"  description_key="quest_AdvancedSurvival1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="AnimalKill" value="3"/>
 		<objective type="FetchKeep" id="femur" value="1"/>
 		<objective type="Craft" id="boneShiv" value="1"/>
@@ -139,19 +139,19 @@
 		<reward type="Quest" id="quest_forges1"/>
 	</quest>
 	<!-- Advanced Survival 2 - Acquire Twine /> -->
-	<quest id="quest_AdvancedSurvival2" group_name_key="Advanced Survival" name_key="Advanced Survival 2/7" subtitle_key="Acquire Twine"  description_key="Twine is very important. You can acquire Twine by looting buildings. Twine is used for several major recipes." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival2" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival2" subtitle_key="quest_AdvancedSurvival2_subtitle"  description_key="quest_AdvancedSurvival2_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="Twine" value="5"/>
 		<reward type="Exp" value="200"/>
 		<reward type="Quest" id="quest_AdvancedSurvival3"/>
 	</quest>
 	<!-- Advanced Survival 3 - Acquire Water /> -->
-	<quest id="quest_AdvancedSurvival3" group_name_key="Advanced Survival" name_key="Advanced Survival 3/7" subtitle_key="Gather Bottled Water"  description_key="Bottled Water is extremely important to survival. Not only will it keep you alive but it is also used for important recipes. There are several ways to gather water. You can take empty jars to a water source and fill them, or you can find Murky Bottled Water and cook it in the Advanced Campfire. Bottled Water can also be looted from a variety of sources." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival3" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival3" subtitle_key="quest_AdvancedSurvival3_subtitle"  description_key="quest_AdvancedSurvival3_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="bottledWater" value="5"/>
 		<reward type="Exp" value="500"/>
 		<reward type="Quest" id="quest_AdvancedSurvival4"/>
 	</quest>
 	<!-- Advanced Survival 4 - Craft Soap and a Towel /> -->
-	<quest id="quest_AdvancedSurvival4" group_name_key="Advanced Survival" name_key="Advanced Survival 4/7" subtitle_key="Craft Soap and a Towel"  description_key="As you loot the undead you will run the risk of becoming messy. You have to clean yourself in the appropriate time. Craft some soap and a towel." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival4" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival4" subtitle_key="quest_AdvancedSurvival4_subtitle"  description_key="quest_AdvancedSurvival4_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="Twine" value="2"/>
 		<objective type="FetchKeep" id="cloth" value="10"/>
 		<objective type="FetchKeep" id="animalFat" value="5"/>
@@ -165,7 +165,7 @@
 		<reward type="Quest" id="quest_AdvancedSurvival5"/>
 	</quest>
 	<!-- Advanced Survival 5 - Craft a Soapy Wet Towel /> -->
-	<quest id="quest_AdvancedSurvival5" group_name_key="Advanced Survival" name_key="Advanced Survival 5/7" subtitle_key="Craft a Soapy Wet Towel"  description_key="Now that you have the proper supplies, use a bottle of water to make a wet towel. You can also right click on a water source but that will not count for this quest. The wet towel can be used to clean up stage 1 of Messes. Combining soap makes a Soapy Wet Towel and can be used to clean off after stage 1." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival5" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival5" subtitle_key="quest_AdvancedSurvival5_subtitle"  description_key="quest_AdvancedSurvival5_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="Soap" value="1"/>
 		<objective type="FetchKeep" id="Towel" value="1"/>
 		<objective type="FetchKeep" id="bottledWater" value="1"/>
@@ -176,7 +176,7 @@
 		<reward type="Quest" id="quest_AdvancedSurvival6"/>
 	</quest>
 	<!-- Advanced Survival 6 - Craft a Drying Rack /> -->
-	<quest id="quest_AdvancedSurvival6" group_name_key="Advanced Survival" name_key="Advanced Survival 6/7" subtitle_key="Craft a Drying Rack"  description_key="Drying Racks are incredibly important for making leathers and paper. You can also use one to make Jerky and Trail Mix. Acquire the materials needed to craft one and place it down." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival6" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival6" subtitle_key="quest_AdvancedSurvival6_subtitle"  description_key="quest_AdvancedSurvival6_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="Twine" value="10"/>
 		<objective type="FetchKeep" id="wood" value="50"/>
 		<objective type="FetchKeep" id="animalHide" value="2"/>
@@ -186,7 +186,7 @@
 		<reward type="Quest" id="quest_AdvancedSurvival7"/>
 	</quest>
 	<!-- Advanced Survival 7 - Craft Leather and Paper /> -->
-	<quest id="quest_AdvancedSurvival7" group_name_key="Advanced Survival" name_key="Advanced Survival 7/7" subtitle_key="Craft Leather and Paper"  description_key="Using your Drying Rack you can make leather and paper. Go out and tear some couches up and acquire leather strips. Acquire glue and Murky Water as well as wood to craft paper. You will need to be INSIDE the Drying Rack when the craft completes in order to receive credit." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_AdvancedSurvival7" group_name_key="Advanced Survival" name_key="quest_AdvancedSurvival7" subtitle_key="quest_AdvancedSurvival7_subtitle"  description_key="quest_AdvancedSurvival7_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="leatherStrips" value="24"/>
 		<objective type="FetchKeep" id="glue" value="2"/>
 		<objective type="FetchKeep" id="wood" value="100"/>
@@ -199,7 +199,7 @@
 		<reward type="Quest" id="quest_blacksmithing1"/>
 	</quest>
 	<!-- Working The Forge 1 - Craft a Basic Forge /> -->
-	<quest id="quest_forges1" group_name_key="Working The Forge" name_key="Working the Forge 1/3" subtitle_key="Craft a Basic Forge"  description_key="Acquire the materials needed to make a Basic Forge. The Basic Forge allows you to make limited essential recipes. More recipes can be unlocked by making an Advanced Forge." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_forges1" group_name_key="Working The Forge" name_key="quest_forges1" subtitle_key="quest_forges1_subtitle"  description_key="quest_forges1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="rockSmall" value="50"/>
 		<objective type="FetchKeep" id="clayLump" value="50"/>
 		<objective type="FetchKeep" id="wood" value="6"/>
@@ -213,7 +213,7 @@
 		<reward type="Quest" id="quest_forges2"/>
 	</quest>
 	<!-- Working The Forge 2 - Craft an Advanced Forge /> -->
-	<quest id="quest_forges2" group_name_key="Working the Forge" name_key="Working the Forge 2/3" subtitle_key="Craft an Advanced Forge"  description_key="The Advanced Forge requires a lot more materials to craft but it also contains many more recipes than a Basic Forge including Molds to make other items. Gather the required materials and craft and place an Advanced Forge." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_forges2" group_name_key="Working the Forge" name_key="quest_forges2" subtitle_key="quest_forges2_subtitle"  description_key="quest_forges2_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="rockSmall" value="200"/>
 		<objective type="FetchKeep" id="clayLump" value="150"/>
 		<objective type="FetchKeep" id="shortMetalPipe" value="5"/>
@@ -226,14 +226,14 @@
 		<reward type="Quest" id="quest_forges3"/>
 	</quest>
 	<!-- Working The Forge 3 - Craft an Empty Mold /> -->
-	<quest id="quest_forges3" group_name_key="Working the Forge" name_key="Working the Forge 3/3" subtitle_key="Craft an Empty Mold"  description_key="Blank molds are used to create other molds. Molds are needed in the forge to craft various items like nails, jars, arrowheads and bullet tips. Gather the materials and craft a Blank Mold. When you have your blank mold you can use it and the item you wish to create to make a mold out of it, which can then be placed in the Advanced Forge." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_forges3" group_name_key="Working the Forge" name_key="quest_forges3" subtitle_key="quest_forges3_subtitle"  description_key="quest_forges1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="clayLump" value="10"/>
 		<objective type="FetchKeep" id="bottledRiverWater" value="1"/>
 		<objective type="Craft" id="blankMold" value="1"/>
 		<reward type="Exp" value="1000"/>
 	</quest>
 	<!-- Becoming a Blacksmith 1 - Craft a Blacksmith Station /> -->
-	<quest id="quest_blacksmithing1" group_name_key="Becoming a Blacksmith" name_key="Becoming a Blacksmith 1/2" subtitle_key="Craft a Blacksmith Station"  description_key="The Blacksmith Station is essential for crafting metallic materials and weapons as well as clothing. Craft an anvil in the Advanced Forge as well as a Blacksmith Hammer. Gather the required materials and craft and place your Blacksmith Station." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_blacksmithing1" group_name_key="Becoming a Blacksmith" name_key="quest_blacksmithing1" subtitle_key="quest_blacksmithing1_subtitle"  description_key="quest_blacksmithing1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="anvil" value="1"/>
 		<objective type="FetchKeep" id="blacksmithHammer" value="1"/>
 		<objective type="FetchKeep" id="wood" value="50"/>
@@ -243,12 +243,12 @@
 		<reward type="Quest" id="quest_blacksmithing2"/>
 	</quest>
 	<!-- Becoming a Blacksmith 2 - Craft a Tool Head /> -->
-	<quest id="quest_blacksmithing2" group_name_key="Becoming a Blacksmith" name_key="Becoming a Blacksmith 2/2" subtitle_key="Craft a Tool Head"  description_key="Now that you have a Blacksmith Station, you can make tools and weapons. Purchase Level 1 of Iron Tool Crafting in order to unlock tool heads. Craft one tool head from the Blacksmith Station. Tool heads can be used in the Advanced Workbench to create a full weapon or tool." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_blacksmithing2" group_name_key="Becoming a Blacksmith" name_key="quest_blacksmithing2" subtitle_key="quest_blacksmithing2_subtitle"  description_key="quest_blacksmithing2_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="Craft" id="toolHeadIronAxe" value="1"/>
 		<reward type="Exp" value="1500"/>
 	</quest>
 	<!-- Workbench Quest 1 - Craft a Basic Workbench /> -->
-	<quest id="quest_workbenches1" group_name_key="Crafting Workbenches" name_key="Crafting Workbenches 1/2" subtitle_key="Craft A Basic Workbench" description_key="Workbenches work differently in Ravenhearst. A Basic Workbench ONLY makes recipes that you can craft from your Backpack without a Combine. To access new recipes and the Combine you will need to craft an Advanced Workbench" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_workbenches1" group_name_key="Crafting Workbenches" name_key="quest_workbenches1" subtitle_key="quest_workbenches1_subtitle" description_key="quest_workbenches1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="forgedIron" value="15"/>
 		<objective type="FetchKeep" id="mechanicalParts" value="10"/>
 		<objective type="FetchKeep" id="wood" value="50"/>
@@ -258,7 +258,7 @@
 		<reward type="Quest" id="quest_workbenches2"/>
 	</quest>
 	<!-- Workbench Quest 2 - Craft an Advanced Workbench /> -->
-	<quest id="quest_workbenches2" group_name_key="Crafting Workbenches" name_key="Crafting Workbenches 2/2" subtitle_key="Craft an Advanced Workbench" description_key="The Advanced Workbench allows you to craft more complex recipes and gives you access to the Combine feature." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_workbenches2" group_name_key="Crafting Workbenches" name_key="quest_workbenches2" subtitle_key="quest_workbenches2_subtitle" description_key="quest_workbenches2_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="forgedIron" value="50"/>
 		<objective type="FetchKeep" id="mechanicalParts" value="30"/>
 		<objective type="FetchKeep" id="wood" value="100"/>
@@ -269,7 +269,7 @@
 		<reward type="Exp" value="1000"/>
 	</quest>
 	<!-- Advanced Campfire 1 - Craft an Advanced Campfire /> -->
-	<quest id="quest_advancedCampfire" group_name_key="Advanced Cooking" name_key="Advanced Cooking 1/3" subtitle_key="Craft an Advanced Campfire" description_key="The Advanced Campfire is your primary source of food and drink. It opens up more cooking possibilities. Acquire a cooking pot and the listed materials to craft and place one." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_advancedCampfire" group_name_key="Advanced Cooking" name_key="quest_advancedCampfire" subtitle_key="quest_advancedCampfire_subtitle" description_key="quest_advancedCampfire_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="rockSmall" value="8"/>
 		<objective type="FetchKeep" id="coal" value="3"/>
 		<objective type="FetchKeep" id="wood" value="20"/>
@@ -281,7 +281,7 @@
 		<reward type="Quest" id="quest_foodpreptable1"/>
 	</quest>
 	<!-- Food Prep Table Quest 1 - Craft a Food Prep Table /> -->
-	<quest id="quest_foodpreptable1" group_name_key="Advanced Cooking" name_key="Advanced Cooking 2/3" subtitle_key="Craft a Food Prep Table" description_key="A Food Prep Table is vital to making complex recipes and preparing better meals. You will need to find a Butcher Knife and a Tenderizer use it. Craft a Food Prep Table." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_foodpreptable1" group_name_key="Advanced Cooking" name_key="quest_foodpreptable1" subtitle_key="quest_foodpreptable1_subtitle" description_key="quest_foodpreptable1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="scrapPlastics" value="20"/>
 		<objective type="FetchKeep" id="wood" value="50"/>
 		<objective type="FetchKeep" id="nail" value="10"/>
@@ -291,7 +291,7 @@
 		<reward type="Exp" value="1000"/>
 	</quest>
 	<!-- Household Appliances Quest 1 - Craft Household Appliances /> -->
-	<quest id="quest_appliances1" group_name_key="Household Appliances" name_key="Advanced Cooking 3/3" subtitle_key="Craft Household Appliances" description_key="Household Appliances can be a handy way to make some extra food or drinks that are beneficial. Craft a Coffeemaker, a Microwave and a Blender." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_appliances1" group_name_key="Household Appliances" name_key="quest_appliances1" subtitle_key="quest_appliances1_subtitle" description_key="quest_appliances1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="forgedIron" value="45"/>
 		<objective type="FetchKeep" id="mechanicalParts" value="15"/>
 		<objective type="FetchKeep" id="electricParts" value="15"/>
@@ -304,7 +304,7 @@
 		<reward type="Exp" value="500"/>
 	</quest>
 	<!-- Tree Cutter Quest 1 - Craft a Wood Chipper /> -->
-	<quest id="quest_treecutter" group_name_key="Cutting More Wood and Sticks" name_key="Crafting a Wood Chipper 1/1" subtitle_key="Craft a Wood Chipper" description_key="Tired of scrapping those logs and wood? The Wood Chipper is perfect for your inner lumberjack. Not only does it let you make sticks and wood with recipes but it also gives you back MORE than just scrapping." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_treecutter" group_name_key="Cutting More Wood and Sticks" name_key="quest_treecutter" subtitle_key="quest_treecutter_subtitle" description_key="quest_treecutter_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="forgedIron" value="50"/>
 		<objective type="FetchKeep" id="mechanicalParts" value="15"/>
 		<objective type="FetchKeep" id="electricParts" value="10"/>
@@ -315,7 +315,7 @@
 		<reward type="Exp" value="1000"/>
 	</quest>
 	<!-- Ammo Table Quest 1 - Craft an Ammunition Table /> -->
-	<quest id="quest_ammotable1" group_name_key="Getting More Out of Your Ammo" name_key="Crafting an Ammunition Table 1/1" subtitle_key="Craft an Ammunition Table" description_key="Crafting an Ammunition Table offers the benefit of making more ammo for your supplies and crafting explosives of all types. It also offers the ability to dismantle ammo and arrows so you can gain back resources. You will need to find Calipers and a Tool and Die Set in order to craft ammo." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_ammotable1" group_name_key="Getting More Out of Your Ammo" name_key="quest_ammotable1" subtitle_key="quest_ammotable1_subtitle" description_key="quest_ammotable1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="forgedIron" value="25"/>
 		<objective type="FetchKeep" id="mechanicalParts" value="10"/>
 		<objective type="FetchKeep" id="wood" value="25"/>
@@ -324,7 +324,7 @@
 		<reward type="Exp" value="1000"/>
 	</quest>
 	<!-- Jax Hates You Quest 1 - Jax Hates You /> -->
-	<quest id="quest_jaxhatesyou" group_name_key="Jax Needs You To Work" name_key="Jax Wants Me to WHAT? 1/1" subtitle_key="Working for the Man" description_key="Listen up Prospect. We hear you have a LOT of extra time on your hands. Idle hands and all. I need you to go gather me some stuff for building and things. It may seem like busy work, but surely you are not going to say no are you Prospect? You DO want a seat at the table. Here is a list of what I need. Don't take too long now." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_jaxhatesyou" group_name_key="Jax Needs You To Work" name_key="quest_jaxhatesyou" subtitle_key="quest_jaxhatesyou_subtitle" description_key="quest_jaxhatesyou_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="rockSmall" value="10000"/>
 		<objective type="FetchKeep" id="wood" value="10000"/>
 		<objective type="FetchKeep" id="clayLump" value="10000"/>
@@ -333,13 +333,13 @@
 		<reward type="Item" id="Twine" value="5"/>
 	</quest>
 	<!-- Gaining Knowledge 1 - Scrap a Schematic for Knowledge Points /> -->
-	<quest id="quest_researchdesk1" group_name_key="Gaining Knowledge" name_key="Gaining Knowledge 1/2"  subtitle_key="Scrap a Schematic for Knowledge Points" description_key="Knowledge Points can be saved up to buy additional classes and skills with Ink and a Pen in a Research Desk. Find a schematic or skill book and scrap it to gain Knowledge Points." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="easy">
+	<quest id="quest_researchdesk1" group_name_key="Gaining Knowledge" name_key="quest_researchdesk1"  subtitle_key="quest_researchdesk1_subtitle" description_key="quest_researchdesk1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="easy">
 		<objective type="Craft" id="knowledgePoint" value="3"/>
 		<reward type="Exp" value="500"/>
 		<reward type="Quest" id="quest_researchdesk2"/>
 	</quest>
 	<!-- Gaining Knowledge 2 - Craft a Research Desk /> -->
-	<quest id="quest_researchdesk2" group_name_key="Gaining Knowledge" name_key="Gaining Knowledge 2/2"  subtitle_key="Craft a Research Desk" description_key="A research desk allows you to use your KP along with Ink and an Ink Pen to craft additional classes and skill point sheets. Craft and Place a Research Desk." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
+	<quest id="quest_researchdesk2" group_name_key="Gaining Knowledge" name_key="quest_researchdesk2"  subtitle_key="quest_researchdesk2_subtitle" description_key="quest_researchdesk2_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="medium">
 		<objective type="FetchKeep" id="nail" value="20"/>
 		<objective type="FetchKeep" id="wood" value="50"/>
 		<objective type="FetchKeep" id="scrapPlastics" value="5"/>
@@ -349,7 +349,7 @@
 		<reward type="Exp" value="1000"/>
 	</quest>
 	<!-- Station Tools Quest 1 - Acquiring Station Tools /> -->
-	<quest id="quest_stationtools1" group_name_key="Gathering the Right Tools" name_key="Acquiring Station Tools 1/2" subtitle_key="Acquiring Station Tools" description_key="There are a few new benches and stations in Ravenhearst and most require the right tools to get the job done. Most are found by looting but some can be crafted. Acquire all the station tools needed to use your work stations." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_stationtools1" group_name_key="Gathering the Right Tools" name_key="quest_stationtools1" subtitle_key="quest_stationtools1_subtitle" description_key="quest_stationtools1_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="tenderizer" value="1"/>
 		<objective type="FetchKeep" id="butcherKnife" value="1"/>
 		<objective type="FetchKeep" id="sewingKit" value="1"/>
@@ -362,7 +362,7 @@
 		<reward type="Quest" id="quest_stationtools2"/>
 	</quest>
 	<!-- Station Tools Quest 2 - Acquiring Station Tools /> -->
-	<quest id="quest_stationtools2" group_name_key="Gathering the Right Tools" name_key="Acquiring Station Tools 2/2" subtitle_key="Acquiring Station Tools" description_key="There are a few new benches and stations in Ravenhearst and most require the right tools to get the job done. Most are found by looting but some can be crafted. Acquire all the station tools needed to use your work stations." 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
+	<quest id="quest_stationtools2" group_name_key="Gathering the Right Tools" name_key="quest_stationtools2" subtitle_key="quest_stationtools2_subtitle" description_key="quest_stationtools2_description" 	icon="ui_game_symbol_hammer" category_key="quest" difficulty="hard">
 		<objective type="FetchKeep" id="calipers" value="1"/>
 		<objective type="FetchKeep" id="chisel" value="1"/>
 		<objective type="FetchKeep" id="toolAndDieSet" value="1"/>
@@ -1370,7 +1370,7 @@
 		<reward type="Exp" value="500"/>
 		<reward type="Quest" id="quest_FarmerClass04"/>
 	</quest>
-	<quest id="quest_FarmerClass04" group_name_key="Farming Skills" name_key="Farming Expert 4/10" subtitle_key="Crafting Seeds" description_key="Craft the following seeds in the Mortar and Pestle. You must be INSIDE the Pestle craft screen when the seed completes to receive quest credit." icon="ui_game_symbol_Farming"  category_key="quest" difficulty="medium">
+	<quest id="quest_FarmerClass04" group_name_key="Farming Skills" name_key="Farming Expert 4/10" subtitle_key="Crafting Seeds" description_key="Craft the following seeds in the Mortar and Pestle. You must be INSIDE the Pestle craft screen when the seed completes to receive quest credit. Seeds can be unlocked through Advanced Farming Perk." icon="ui_game_symbol_Farming"  category_key="quest" difficulty="medium">
 		<objective type="Craft" id="plantedChrysanthemum1" value="5"/>
 		<objective type="Craft" id="plantedCotton1" value="5"/>
 		<objective type="Craft" id="plantedGoldenrod1" value="5"/>
@@ -1996,6 +1996,7 @@
 		<reward type="Item" id="ironArrow" value="250"/>
 		<reward type="Item" id="firstAidKit" value="1"/>
 		<reward type="Item" id="antibiotics" value="1"/>
+		<reward type="Item" id="fishingRodSchematic" value="1"/>
 		<reward type="Quest" id="quest_SurvivalClass01"/>
 	</quest>
 	<quest id="bowclass1" 	name_key="Archer Class" 	group_name="SurvivalClasses" 	subtitle_key="Archer Class" 	offer_key="Accepting this will give you a crossbow, 250 iron crossbow bolts and a crossbow schematic. Exclusive Access to the Repeating Crossbow. This also unlocks Arrow Crafting." 	description_key="Become an expert Archer" 	icon="classMarksmanLevel1Icon" 	repeatable="false" 	category_key="quest" 	difficulty="easy">
@@ -2048,14 +2049,14 @@
 		<reward type="Skill" id="Advanced Farming" value="1"/>
 		<reward type="Skill" id="mortarandpestlePerk" value="1"/>
 		<reward type="Item" id="seedPack" value="5"/>
-		<reward type="Item" id="blunderbuss" value="300"/>
-		<reward type="Item" id="blunderbussAmmo" value="250"/>
-		<reward type="Item" id="Pitchfork" value="300"/>
-		<reward type="Item" id="forgedIron" value="5"/>
+		<reward type="Item" id="blunderbuss" value="200"/>
+		<reward type="Item" id="blunderbussAmmo" value="100"/>
+		<reward type="Item" id="Pitchfork" value="200"/>
+		<reward type="Item" id="repairKit" value="2"/>
+		<reward type="Item" id="forgedIron" value="3"/>
 		<reward type="Item" id="fertilizer" value="10"/>
 		<reward type="Item" id="recipebookGardenTools" value="1"/>
 		<reward type="Quest" id="quest_FarmerClass01"/>
-		<reward type="Item" id="repairKit" value="3"/>
 	</quest>
 	<quest id="averageclass1" 	name_key="Average Joe Class" 	group_name="SurvivalClasses" 	subtitle_key="Average Joe Class" 	offer_key="Things were going so well. The hot pockets were ready, Fortnite was loaded and mom was out for the day. Who cares if you have no skills, when you going to need them anyway. Its not like the Apocalypse is happening anytime soon. You have no calling in life, and must find your way. not for the faint of heart, you have no specializations...yet." 	description_key="Become an expert in Gaming....damn" 	icon="ui_game_symbol_classScholar1" 	repeatable="false" 	category_key="quest" 	difficulty="hard">
 		<reward type="Item" id="soda" value="3"/>

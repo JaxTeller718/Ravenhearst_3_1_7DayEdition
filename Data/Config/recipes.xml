@@ -688,7 +688,7 @@
 		<ingredient name="cloth" count="1"/>
 		<ingredient name="tallow" count="1"/>
 	</recipe>
-	<recipe name="foodYuccaJuice" count="1">
+	<recipe name="foodYuccaJuice" count="1"> 
 		<ingredient name="foodYuccaFruit" count="4"/>
 		<ingredient name="emptyJar" count="1"/>
 	</recipe>
@@ -3485,13 +3485,6 @@
 		<ingredient name="unit_clay" count="5"/>
 		<ingredient name="unit_stone" count="10"/>
 	</recipe>
-	<recipe name="windmill" count="1" scrapable="False">
-		<ingredient name="forgedSteel" count="150"/>
-		<ingredient name="carBattery" count="1"/>
-		<ingredient name="electricParts" count="30"/>
-		<ingredient name="smallEngine" count="2"/>
-		<ingredient name="electronicParts" count="80"/>
-	</recipe>
 	<recipe name="mushroomGrilled" count="1" craft_time="8"  craft_area="trashCanSmoker">
 		<ingredient name="mushrooms" count="2"/>
 	</recipe>
@@ -4419,6 +4412,10 @@
 		<ingredient name="unit_clay" count="5"/>
 	</recipe>
 	<recipe name="metalTrussingRamp" count="1" craft_area="blacksmithStation" craft_tool="blacksmithHammer" material_based="true">
+		<ingredient name="unit_iron" count="40"/>
+		<ingredient name="unit_clay" count="5"/>
+	</recipe>
+	<recipe name="metalTrussingSheet" count="1" craft_area="blacksmithStation" craft_tool="blacksmithHammer" material_based="true">
 		<ingredient name="unit_iron" count="40"/>
 		<ingredient name="unit_clay" count="5"/>
 	</recipe>
@@ -5816,9 +5813,9 @@
 	</recipe>
 	<recipe name="ECOChainsawSchematic" count="1" craft_time="8" craft_area="ResearchDesk">
 		<ingredient name="ECOChainsawSchematicvol1" count="1"/>
-		<ingredient name="ECOChainsawSchematicvol1" count="1"/>
-		<ingredient name="ECOChainsawSchematicvol1" count="1"/>
-		<ingredient name="ECOChainsawSchematicvol1" count="1"/>
+		<ingredient name="ECOChainsawSchematicvol2" count="1"/>
+		<ingredient name="ECOChainsawSchematicvol3" count="1"/>
+		<ingredient name="ECOChainsawSchematicvol4" count="1"/>
 	</recipe>
 	<recipe name="pistolBook" count="1" craft_time="8" craft_area="ResearchDesk">
 		<ingredient name="pistolBookvol1" count="1"/>
@@ -5969,7 +5966,7 @@
 		<ingredient name="kukri" count="1"/>
 		<ingredient name="paint" count="5"/>
 	</recipe>
-	<recipe name="fishingRod" count="1" craft_area="workbench">
+	<recipe name="fishingRod" count="1" craft_area="advancedWorkbench">
 		<ingredient name="scrapPlastics" count="50"/>
 		<ingredient name="forgedIron" count="10"/>
 		<ingredient name="Twine" count="10"/>
