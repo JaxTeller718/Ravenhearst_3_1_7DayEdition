@@ -1111,7 +1111,6 @@
 	</recipe>
 	<recipe name="oil" count="1" craft_area="chemistryStation">
 		<ingredient name="oilShale" count="24"/>
-		<ingredient name="canEmpty" count="1"/>
 	</recipe>
 	<recipe name="officeChair01" count="1" craft_area="decoStation">
 		<ingredient name="leather" count="5"/>
@@ -4774,6 +4773,7 @@
 	</recipe>
 	<recipe name="oil" count="3" craft_area="oilRefinery">
 		<ingredient name="oilShale" count="10"/>
+		<ingredient name="canEmpty" count="1"/>
 	</recipe>
 	<recipe name="oil" count="1" craft_area="oilRefinery">
 		<ingredient name="tallow" count="7"/>

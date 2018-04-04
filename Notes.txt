@@ -32,8 +32,6 @@
 
 -Added Weight of 1 to both nails
 
--Increased KP needed for classes to 300
-
 -Added spring and cloth to wrench as repair items
 
 -Increased Probability of Resident Evil Mansion
@@ -85,8 +83,6 @@
 -Fishing Rod Schematic Added to Survival Class
 
 -Rest Added to Mattress
-
--Added Yucca Juice to Blender
 
 -Localization Fixes
 
@@ -143,3 +139,15 @@
 -Clarified that Advanced Farming is needed to craft seeds.
 
 -Removed material from scrap nails and changed it to organic to combat iron exploit
+
+
+-------------------------------------------------------
+
+
+-Radiation Suit rebalanced. Now you wont die if you have FULLY REPAIRED Hazmat clothing. The suit WILL take damage over time so you need to repair it every now and then or it will lose radiation protection. You can check your radiation protection level in the Character screen and on each piece of clothing.
+
+-Binoculars Icon Fixed
+
+-Oil recipes and description changed
+
+-Removed Medieval Tower from towns

@@ -478,7 +478,6 @@
 			<prefab name="xcostum_Chernobyl(by_Maz_Burt)"  prob="0.5"/>
 			<prefab name="xcostum_CrashedAirplane(by_LazMan)"  prob="0.5"/>
 			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.7"/>
-			<prefab name="ravenhearst_xcostum_medieval_tower_(by_dancapo)" max_count="1" prob="0.3"/>
 			<prefab name="xcostum_CountyJail(by_Volar)" max_count="1" prob="0.3"/>
 			<prefab name="xcostum_Orphanage(ex_vanilla_ornate02)" max_count="1" prob="0.3"/>
 		</prefab_rule>
@@ -559,7 +558,6 @@
 			<prefab name="Tom_Medievalhouse"  prob="0.5"/>
 			<prefab name="xcostum_CrashedAirplane(by_LazMan)"  prob="0.5"/>
 			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.8"/>
-			<prefab name="ravenhearst_xcostum_medieval_tower_(by_dancapo)" max_count="1" prob="0.3"/>
 			<prefab name="MinderManor20" max_count="1" prob="0.3"/>
 			<prefab name="xcostum_Church(by_Guppycur)"  prob="0.5"/>
 			<prefab name="xcostum_CountyJail(by_Volar)"  prob="0.5"/>
