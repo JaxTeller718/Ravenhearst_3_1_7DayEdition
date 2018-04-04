@@ -4994,7 +4994,7 @@ flagCNRRound,blocks,Block,New,Flagstone CNR Round,,Bruchstein - Runde Ecke,,
 flagCNRRoundTop,blocks,Block,New,Flagstone CNR RoundTop,,Bruchstein - Runde Ecke oben,,
 cobbleCNRRound,blocks,Block,New,Cobblestone CNR Round,,Pflasterstein - Runde Ecke,,
 cobbleCNRRoundTop,blocks,Block,New,Cobblestone CNR RoundTop,,Pflasterstein - Runde Ecke oben,,
-Barricade,blocks,Block,KgNone,Window Barricade,Encadrement de fenêtre 04,Fensterbarrikade,,Estructura de ventana 4
+barricade,blocks,Block,KgNone,Window Barricade,Encadrement de fenêtre 04,Fensterbarrikade,,Estructura de ventana 4
 BarricadeDesc,blocks,Block,KgNone,Cheap craftable barricades that can be used to block an entrance from unwanted guests.,Un morceau d'échelle en bois. Faites face à un mur et placez l'échelle à l'aide de l'action secondaire.,"Billige Barrikaden, mit denen man einen Eingang vor unerwünschten Gästen blockieren kann.",,Un trozo de una escalera de madera Colócate frente a una pared y usa la acción secundaria para colocar la escalera.
 cntEPSCooler,blocks,Loot Container,,Beer Cooler (Medium Storage),,Bierkühlbox (kleiner Stauraum),,
 cntEPSCabinet,blocks,Loot Container,,Cabinet (Medium Storage),,Schrank (mittlerer Stauraum),,
@@ -7724,7 +7724,7 @@ gardenFlower03,,,,Garden Flower 3,,Gartenblume 3,,
 gardenFlower04,,,,Garden Flower 4,,Gartenblume 4,,
 gardenFlower05,,,,Garden Flower 5,,Gartenblume 5,,
 bloodDrawKitSchematic,,,,Blood Draw Kit Schematic,,Bauplan: Blutabnahmekit,,
-woodenbathTub,,,,Jacuzzi,,,,
+woodbathTub,,,,Jacuzzi,,,,
 bathTub,,,,Bath Tub,,Badewanne,,
 toolChest,,,,Tool Chest (Large Storage),,Werkzeugkiste (großer Stauraum),,
 hottubsDesc,,,,Nothing like a long soak in the jacuzzi after a long day of ass kicking. Shit where is the water?.\n [ Crafted in [dd6262]Decorating Station[-]  ],,,,
