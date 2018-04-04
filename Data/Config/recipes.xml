@@ -5807,9 +5807,9 @@
 	</recipe>
 	<recipe name="ECOAugerSchematic" count="1" craft_time="8" craft_area="ResearchDesk">
 		<ingredient name="ECOAugerSchematicvol1" count="1"/>
-		<ingredient name="ECOAugerSchematicvol1" count="1"/>
-		<ingredient name="ECOAugerSchematicvol1" count="1"/>
-		<ingredient name="ECOAugerSchematicvol1" count="1"/>
+		<ingredient name="ECOAugerSchematicvol2" count="1"/>
+		<ingredient name="ECOAugerSchematicvol3" count="1"/>
+		<ingredient name="ECOAugerSchematicvol4" count="1"/>
 	</recipe>
 	<recipe name="ECOChainsawSchematic" count="1" craft_time="8" craft_area="ResearchDesk">
 		<ingredient name="ECOChainsawSchematicvol1" count="1"/>
