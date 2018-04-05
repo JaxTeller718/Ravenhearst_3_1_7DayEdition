@@ -1,4 +1,4 @@
-**Patch 3.1 Release Patch Notes  Release Date ??/??/2018**
+**Patch 3.1 Release Patch Notes  Release Date 04/??/2018**
 
 -Removed 2 Load Heavy POIs from the Mixer to accomodate servers and lower end systems
 
@@ -56,8 +56,6 @@
 
 -Rearranged several POIs into different groups for better spawning
 
--Removed Transmogrifier
-
 -Removed All Bandits and Bandit POIs
 
 -Removed Shark From Entity Classes
@@ -110,8 +108,6 @@
 
 -Added more German Translations thanks to Scomar
 
--Zombie Transmogrifier is BACK
-
 -Reduced pig health (oink oink)
 
 -Fixed tagging on Animals so they wont throw Alloc Errors
@@ -140,10 +136,6 @@
 
 -Removed material from scrap nails and changed it to organic to combat iron exploit
 
-
--------------------------------------------------------
-
-
 -Radiation Suit rebalanced. Now you wont die if you have FULLY REPAIRED Hazmat clothing. The suit WILL take damage over time so you need to repair it every now and then or it will lose radiation protection. You can check your radiation protection level in the Character screen and on each piece of clothing.
 
 -Binoculars Icon Fixed
@@ -151,8 +143,6 @@
 -Oil recipes and description changed
 
 -Removed Medieval Tower from towns
-
-----------------------------------------------------
 
 -Added Reggie Special to Shotgun Exclusive
 

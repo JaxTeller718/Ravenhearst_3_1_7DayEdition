@@ -1,13 +1,10 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
-<!--       716 general clothing
--->
+<?xml version="1.0" encoding="UTF-8"?>
 <items>
 	<item id="1" name="partsMaster">
 		<property name="CreativeMode" value="None" />
 		<property name="PartType" value="Barrel" />
 		<property name="Material" value="metal" />
 		<property name="RepairTools" value="repairKit" />
-		<!-- 1 repairKit is worth 2000 -->
 		<property name="Stacknumber" value="1" />
 		<property name="DegradationBreaksAfter" value="false" />
 		<property name="HoldType" value="45" />
@@ -3594,14 +3591,7 @@
 		<property name="RepairTools" value="repairKit" />
 		<property name="HoldType" value="5" />
 		<property name="DegradationBreaksAfter" value="false" />
-		<property class="Parts">
-			<property name="Stock" value="partsDoubleBarrel_stock" />
-			<property name="Receiver" value="partsDoubleBarrel_receiver" />
-			<property name="Pump" value="partsDoubleBarrel_parts" />
-			<property name="Barrel" value="partsDoubleBarrel_barrel" />
-		</property>
 		<property name="SoundJammed" value="Weapons/weapon_jam" />
-		<property name="Attachments" value="flashlight02" />
 		<property class="Action0">
 			<property name="Class" value="Ranged" />
 			<property name="Delay" value="0.2" />
@@ -3633,9 +3623,15 @@
 			<property name="Zoom_max_out" value="40" />
 			<property name="Zoom_max_in" value="40" />
 		</property>
-		<property name="LightSource" value="lightSource" />
-		<property name="ActivateObject" value="Attachments/flashlight/lightSource" />
-		<property name="AttachmentFlashlight" value="flashlight02" />
+		<property class="Attributes">
+			<property name="DismembermentBaseChance" value="0.05,0.15" />
+			<property name="DismembermentBonus" value="0,0" />
+			<property name="DegradationRate" value="9,5" />
+			<property name="FalloffRange" value="55,99" />
+			<property name="DegradationMax" value="1800,3600" />
+			<property name="EntityDamage" value="5,15" />
+			<property name="BlockDamage" value="5,15" />
+		</property>
 		<property name="Group" value="Ammo/Weapons" />
 		<property name="Categories" value="Weapons" />
 		<property name="Categories_UI" value="ui_game_symbol_knife" />

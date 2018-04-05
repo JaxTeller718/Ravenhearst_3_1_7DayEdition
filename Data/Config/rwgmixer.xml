@@ -342,7 +342,7 @@
 			<prefab name="xcostum_Warehouse(by_Illidua)"/>
 			<prefab name="xcostum_wastelandtrain(by_Horst)"/>
 			<prefab name="xcostum_pistol_gunshop(by_magoli)"  prob="0.5"/>
-			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.5"/>
+ 			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.5"/>
 			<prefab name="ravenhearst_xcostum_McDowell_restaurant(by_LazMan)" max_count="1"/>
 
 		</prefab_rule>
@@ -408,9 +408,12 @@
 			<prefab name="xcostum_pistol_gunshop(by_magoli)"  prob="0.5"/>
 			<prefab name="xcostum_Car_Dealership_new(by_p1ut0nium)" max_count="1" prob="0.5"/>
 			<prefab name="xcostum_med_clinic_small(by_magoli)" max_count="1" prob="0.5"/>
-			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.5"/>
+            <prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.5"/>
 			<prefab name="ravenhearst_notreDamn_(by_tehkarma)" max_count="1" prob="0.3"/>
 			<prefab name="ravenhearst_xcostum_Apartment_Stores(by_Laz_Man)" max_count="1"/>
+<!-- 			
+			
+			 -->
 		</prefab_rule>
 		<prefab_rule name="skyscrapers">
 			<prefab name="xcostum_Skycpraper(by_Peppino)" max_count="1" prob="25"/>
@@ -561,11 +564,7 @@
 			<prefab name="xcostum_Church(by_Guppycur)"  prob="0.5"/>
 			<prefab name="xcostum_CountyJail(by_Volar)"  prob="0.5"/>
 			<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)"  prob="0.5"/>
-			<prefab name="ravenhearst_Resident_Evil_Mansion_(by_Frantic_Dan)"  prob="0.5"/> 
-			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.8"/>
-
-
-
+			<prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.8"/> 
 		</prefab_rule>
 		<prefab_rule name="wildernessGroup">
 			<prefab name="housewhite1basement"/>
@@ -589,21 +588,17 @@
 			<prefab name="houseranchblue1"/>
 			<prefab name="diner_01"/>
 			<prefab name="diner_02"/>
-
 			<prefab name="fastfood_01"/>
 			<prefab name="fastfood_02"/>
 			<prefab name="fastfood_03"/>
-
 			<prefab name="carlot_01"/>
 			<prefab name="carlot_02"/>
-
 			<prefab name="store_autoparts_01"/>
 			<prefab name="houseyellowpyramid3"/>
 			<prefab name="cabin_01"/>
 			<prefab name="cabin_02_sm"/>
 			<prefab name="cabin_03_lg"/>
 			<prefab name="cabin_04_md"/>
-
 			<prefab name="cabin_05_lg"/>
 			<prefab name="cabin_06_lg"/>
 			<prefab name="cabin_snow_hidden_01"/>
@@ -644,13 +639,11 @@
 			<prefab name="xcostum_Asylum(by_Wsiegel)" prob="0.3"/>
 			<prefab name="xcostum_LumberMill(by_IceJudge)" prob="0.6"/>
 			<prefab name="xcostum_ZombieZoo(by_Wsiegel)" prob="0.6"/>
-
 			<prefab name="xcostum_CrashedAirplane(by_LazMan)" prob="0.15"/>
 			<prefab name="xcostum_CasinoANKH(by_magoli)"  prob="0.5"/>
 			<prefab name="xcostum_Prison(by_Limodur)" prob="0.3"/>
 			<prefab name="ouch_airport2" prob="0.3"/>
 			<prefab name="ouch_airport1" prob="0.3"/>
-
 			<prefab name="xcostum_House_AF06D(29x30)(by_Nodabba)" prob="0.2"/>
 			<prefab name="xcostum_House_AF06R(29x30)(by_Nodabba)" prob="0.2"/>
 			<prefab name="xcostum_Hydro_Plant(by_LuckyStar)"/>
@@ -671,14 +664,18 @@
 			<prefab name="xcostum_Church(by_Guppycur)"  prob="0.5"/>
 			<prefab name="xcostum_CountyJail(by_Volar)"  prob="0.5"/>
 			<prefab name="xcostum_TruckStop_Roadhouse(by_stallionsden)"  prob="0.5"/>
-			<prefab name="ravenhearst_xcostum_Stonehenge(by_magoli)"  prob="0.3"/>
-			<prefab name="ravenhearst_xcostum_Manorhouse(by_WereWulfen)" prob="0.3"/>
+			<prefab name="ravenhearst_Sinders_House_(by_sinder)"/>
 			<prefab name="ravenhearst_xcostum_H0bbit(by_Limodor)" prob="0.6"/>
 			<prefab name="ravenhearst_xcostum_Safehouse(by_Limodor)"/>
-			<prefab name="ravenhearst_xcostum_medieval_tower_(by_dancapo)" prob="0.4"/>
+			
+<!-- 			<prefab name="ravenhearst_xcostum_Stonehenge(by_magoli)"  prob="0.3"/>
+			<prefab name="ravenhearst_xcostum_Manorhouse(by_WereWulfen)" prob="0.3"/>
 			<prefab name="ravenhearst_Resident_Evil_Mansion_(by_Frantic_Dan)" prob="0.5"/>
+
+			<prefab name="ravenhearst_xcostum_medieval_tower_(by_dancapo)" prob="0.4"/>
+			
 			<prefab name="ravenhearst_xcostum_forestTreasure_(by_dancapo)"/>
-			<prefab name="ravenhearst_Sinders_House_(by_sinder)"/>
+			 -->
 		</prefab_rule>
 		<prefab_rule name="detailFillerGroup">
 			<prefab name="mailbox1" prob="0.25"/>
