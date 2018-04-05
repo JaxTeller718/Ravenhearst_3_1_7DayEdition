@@ -411,9 +411,6 @@
             <prefab name="ravenhearst_Dark_Exedus_(by_Dex)" max_count="1" prob="0.5"/>
 			<prefab name="ravenhearst_notreDamn_(by_tehkarma)" max_count="1" prob="0.3"/>
 			<prefab name="ravenhearst_xcostum_Apartment_Stores(by_Laz_Man)" max_count="1"/>
-<!-- 			
-			
-			 -->
 		</prefab_rule>
 		<prefab_rule name="skyscrapers">
 			<prefab name="xcostum_Skycpraper(by_Peppino)" max_count="1" prob="25"/>
@@ -668,14 +665,13 @@
 			<prefab name="ravenhearst_xcostum_H0bbit(by_Limodor)" prob="0.6"/>
 			<prefab name="ravenhearst_xcostum_Safehouse(by_Limodor)"/>
 			
-<!-- 			<prefab name="ravenhearst_xcostum_Stonehenge(by_magoli)"  prob="0.3"/>
+ 			<prefab name="ravenhearst_xcostum_Stonehenge(by_magoli)"  prob="0.3"/>
 			<prefab name="ravenhearst_xcostum_Manorhouse(by_WereWulfen)" prob="0.3"/>
 			<prefab name="ravenhearst_Resident_Evil_Mansion_(by_Frantic_Dan)" prob="0.5"/>
 
 			<prefab name="ravenhearst_xcostum_medieval_tower_(by_dancapo)" prob="0.4"/>
 			
 			<prefab name="ravenhearst_xcostum_forestTreasure_(by_dancapo)"/>
-			 -->
 		</prefab_rule>
 		<prefab_rule name="detailFillerGroup">
 			<prefab name="mailbox1" prob="0.25"/>
