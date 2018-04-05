@@ -175,3 +175,7 @@
 -Added Biker Lady to Biker Group.
 
 -Cleaned up Items.xml numbering
+
+-Added fixed mcDowells and Manor Household
+
+-Moved Carrot Cake to Cookbooks
