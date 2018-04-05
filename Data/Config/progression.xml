@@ -1509,6 +1509,7 @@
 			<recipe name="M25SniperRifleLongScoped" unlock_level="1"/>
 			<recipe name="M25SniperRifleExtendedMagazine" unlock_level="1"/>
 			<recipe name="M25SniperRifleLongScopedExtendedMagazine" unlock_level="1"/>
+			<recipe name="vSSVintorez" unlock_level="1"/>
 		</perk>
 		<perk name="craftSkillRifles" max_level="10" skill_point_cost_multiplier="1.06" skill_point_cost_per_level="3" exp_to_level="5000000" 	icon="rifle" description_key="craftSkillRiflesDesc" title_key="craftSkillRifles" group="firearms" exp_gain_multiplier="0">
 			<requirement skill_level="1" required_skill_name="RiflesClass" required_skill_level="1"/>
@@ -1669,6 +1670,7 @@
 		<perk name="Shotgun Exclusive" icon="ui_game_symbol_shotgun" description_key="The shotgun expert gains access to the exclusive Boomstick" title_key="Shotgun Exclusive" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="firearms">
 			<requirement skill_level="1" required_skill_name="ShotgunsClass" required_skill_level="1"/>
 			<recipe name="DoubleBarrel" unlock_level="1"/>
+			<recipe name="reggieSpecial" unlock_level="1"/>
 		</perk>
 		<perk name="craftSkillShotguns" max_level="10" skill_point_cost_multiplier="1.06" skill_point_cost_per_level="3" exp_to_level="5000000" 	icon="shotgun" description_key="craftSkillShotgunsDesc" title_key="craftSkillShotguns" group="firearms" exp_gain_multiplier="0">
 			<requirement skill_level="1" required_skill_name="ShotgunsClass" required_skill_level="1"/>
@@ -2121,7 +2123,7 @@
 		</perk>
 		<perk name="Alternative Medicine" icon="medical" description_key="altmeddesc" title_key="Alt Medicine" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="health">
 			<requirement skill_level="1" required_skill_name="MedicalClass" required_skill_level="1"/>
-			<recipe name="Joint" unlock_level="1"/>
+			<recipe name="plantedWeed1" unlock_level="1"/>
 		</perk>
 		<perk name="FarmerClass" icon="ui_game_symbol_Farming" description_key="Accepting this will give you a Blunderbuss with 100 ammo, some fertilizer, a Pitchfork, recipe for steel hoe and sickle and ability to craft some seeds. Exclusive Access to the Compost Bin and Water Well." title_key="Farming Class" max_level="1" skill_point_cost_per_level="0" skill_point_cost_multiplier="0" group="health"/>
 		<perk name="Farming Skills" icon="ui_game_symbol_Farming" description_key="The farmer excels at planting and maintaining a garden" title_key="Farming Skills" max_level="1" skill_point_cost_multiplier="0" skill_point_cost_per_level="10" group="health">

@@ -1539,6 +1539,11 @@
 		<item name="dirtFallTrapSchematic" prob="0.15"/>
 		<item name="looseBoardsTrapBlockSchematic"/>
 		<item name="trapGlassBusinessSchematic"/>
+		<item name="pinupSchematic"/>
+		<item name="homeAppliancesSchematic"/>
+		<item name="homeFurnishingsSchematic"/>
+		<item name="bathroomFurnishingsSchematic"/>
+		<item name="homeGardeningSchematic"/>
 	</lootgroup>
 	<lootgroup name="rareBooks" count="1">
 		<item name="illegibleAugerSchematic" prob="0.15"/>
@@ -1569,14 +1574,14 @@
 		<item name="chainsawSchematicvol2" prob="0.15"/>
 		<item name="chainsawSchematicvol3" prob="0.15"/>
 		<item name="chainsawSchematicvol4" prob="0.15"/>
-		<item name="ECOAugerSchematicvol1" prob="0.05"/>
-		<item name="ECOAugerSchematicvol2" prob="0.05"/>
-		<item name="ECOAugerSchematicvol3" prob="0.05"/>
-		<item name="ECOAugerSchematicvol4" prob="0.05"/>
-		<item name="ECOChainsawSchematicvol1" prob="0.05"/>
-		<item name="ECOChainsawSchematicvol2" prob="0.05"/>
-		<item name="ECOChainsawSchematicvol3" prob="0.05"/>
-		<item name="ECOChainsawSchematicvol4" prob="0.05"/>
+		<item name="steelAugerSchematicvol1" prob="0.05"/>
+		<item name="steelAugerSchematicvol2" prob="0.05"/>
+		<item name="steelAugerSchematicvol3" prob="0.05"/>
+		<item name="steelAugerSchematicvol4" prob="0.05"/>
+		<item name="steelChainsawSchematicvol1" prob="0.05"/>
+		<item name="steelChainsawSchematicvol2" prob="0.05"/>
+		<item name="steelChainsawSchematicvol3" prob="0.05"/>
+		<item name="steelChainsawSchematicvol4" prob="0.05"/>
 		<item name="Scavenging"/>
 		<item name="trapAdhesiveSpikeSchematic"/>
 		<item group="SpecialQuests" count="1" prob="0.05"/>
@@ -1600,6 +1605,7 @@
 		<item name="oldschooltvSchematic" prob="0.35"/>
 		<item name="statuesSchematic" prob="0.35"/>
 		<item name="purifyingTabletsSchematic" prob="0.35"/>
+		<item name="diamondUpgradesSchematic" prob="0.05"/>
 	</lootgroup>
 	<lootgroup name="paintMagazines" count="1"  loot_quality_template="baseTemplate">
 		<item name="paintMagazineDecorations"/>
@@ -1951,8 +1957,8 @@
 		<item name="partsNailgun_battery" prob="0.1"/>
 		<item name="padlock" prob="0.15"/>
 		<item name="scrapPlastics" count="1,6"/>
-		<item name="TungstenPadlock" prob="0.025"/>
-		<item name="SteelHandlebars" prob="0.025"/>
+		<item name="diamondPadlock" prob="0.025"/>
+		<item name="steelHandlebars" prob="0.025"/>
 		<item name="ECOSmallEngine" prob="0.025"/>
 		<item name="ECOBattery" prob="0.025"/>
 		<item name="weed" count="1,2" prob="0.18"/>
@@ -3941,19 +3947,19 @@
 	<lootcontainer id="208" size="7,4" sound_open="UseActions/open_file_cabinet" sound_close="UseActions/close_file_cabinet"> </lootcontainer>
 	<lootcontainer id="209" size="7,4" sound_open="UseActions/open_trashcan" sound_close="UseActions/close_trashcan"> </lootcontainer>
 	<lootgroup name="militaryBike"  loot_quality_template="baseTemplate">
-		<item name="TungstenHandlebars"/>
+		<item name="diamondHandlebars"/>
 		<item name="HDMinibikeWheels"/>
 		<item name="HDSmallEngine"/>
 		<item name="HDBattery"/>
-		<item name="SteelMinibikeChassis"/>
-		<item name="TungstenMinibikeChassis"/>
+		<item name="steelMinibikeChassis"/>
+		<item name="diamondMinibikeChassis"/>
 		<item name="KevlarMinibikeSeat"/>
-		<item name="TungstenMinibikeSeat"/>
-		<item name="SteelMinibikeHandlebars"/>
-		<item name="TungstenMinibikeHandlebars"/>
+		<item name="diamondMinibikeSeat"/>
+		<item name="steelMinibikeHandlebars"/>
+		<item name="diamondMinibikeHandlebars"/>
 		<item name="ECOSmallEngine"/>
 		<item name="ECOBattery"/>
-		<item name="TungstenPadlock"/>
+		<item name="diamondPadlock"/>
 	</lootgroup>
 	<!-- Camo Bag Wasteland -->
 	<lootcontainer id="210" count="1,3" size="5,4" sound_open="UseActions/open_backpack" sound_close="UseActions/close_backpack"   buff="radiation" buff_chance="1" open_time="7" loot_quality_template="baseTemplate">
@@ -4359,7 +4365,7 @@
 		<item name="casinoCoin" count="40,600" prob="0.15"/>
 		<item name="knowledgePoint" count="2,10" prob="0.15"/>
 		<item group="treasureAmmo" count="1,2" prob="0.15"/>
-		<item name="TungstenPadlock" prob="0.025"/>
+		<item name="diamondPadlock" prob="0.025"/>
 		<item name="antiRad" count="1,2" prob="0.05"/>
 		<item group="militaryLoot"/>
 	</lootcontainer>

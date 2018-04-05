@@ -1467,7 +1467,7 @@ foodHoney,items,Food,KgNone,Jar of Honey,Pot de miel,Honigglas,,Tarro de miel
 foodHoneyDesc,items,Food,KgNone,"Honey is one of mother nature's miracles, it restores stamina, gives wellness & can cure the first stage of an infection.",Le miel est l'un des miracles de Mère nature. Il restaure votre endurance améliore votre bien-être et peut également traiter le début d'une infection.,"Honig ist eines der Wunder von Mutter Natur. Er stellt nicht nur Ausdauer wieder her und erhöht dein Wohlbefinden, er kann auch das erste Stadium einer Infektion heilen.",,"La miel es uno de los milagros de la madre naturaleza. No solo restaura la resistencia y proporciona bienestar, sino que también cura infecciones de primer grado."
 foodYuccaFruit,items,Food,KgNone,Yucca Fruit,Yucca,Yucca-Frucht,,Yuca
 foodYuccaJuice,items,Food,KgNone,Yucca Juice,Jus de yucca,Yucca-Saft,,Jugo de yuca
-foodYuccaJuiceDesc,items,Food,KgNone,"Yucca juice can cool you, hydrate you and give you the stamina of a sexual tyrannosaurus. ","Le jus de yucca peut vous rafraîchir, vous hydrater et vous offrir l'endurance d'un tyrannosaure en rut. ",Yucca-Saft kann dich abkühlen und hydrieren. Er gibt dir auch die Ausdauer des sexual Tyrannosaurus.,,El jugo de yuca te puede refrescar y darte tanta resistencia como la de un tiranosaurio sexual.
+foodYuccaJuiceDesc,items,Food,KgNone,"Yucca juice can cool you, hydrate you and give you the stamina of a sexual tyrannosaurus.\n [ Crafted in [dd6262]Blender[-]  ] ","Le jus de yucca peut vous rafraîchir, vous hydrater et vous offrir l'endurance d'un tyrannosaure en rut. ",Yucca-Saft kann dich abkühlen und hydrieren. Er gibt dir auch die Ausdauer des sexual Tyrannosaurus.\n [ Herzustellen im [dd6262]Mixer[-] ],,El jugo de yuca te puede refrescar y darte tanta resistencia como la de un tiranosaurio sexual.
 goldenRodTea,items,Food,KgNone,Golden Rod Tea,Thé à verge d'or,Goldrutentee,,Té de vara de oro
 goldenRodTeaDesc,items,Food,KgNone,Got dysentery? This bottle of sweet goldenrod tea will cure it.\n [ Crafted in [dd6262]Advanced Campfire[-] and [dd6262]Stoves[-] and [dd6262]Coffee Maker[-]. ],Vous avez la dysenterie ? Cette bouteille de thé de gerbe d'or sucré vous guérira.,"Hast du Dysenterie? Diese Flasche mit süßem Goldrutentee wird sie heilen.\n [ Herzustellen im [dd6262]verbesserten Lagerfeuer[-] , [dd6262]im Ofen[-] und in der [dd6262]Kaffeemaschine[-] ]",,¿Tienes disentería? Esta botella de té de vara de oro dulce te curará.
 grainAlcohol,items,Food,KgNone,Grain Alcohol,Alcool de grain,Spiritus,,Alcohol de grano
@@ -1792,7 +1792,7 @@ qc_maneater,items,Zombie Challenge Note,KgNone,Man Eater Challenge,Défi « Un m
 qc_nurseyoubacktohealth,items,Zombie Challenge Note,KgNone,Nurse You Back To Health Challenge,Défi « Besoin d'infirmières »,Herausforderung – Die kranken Schwestern,,Desafío “Cuidarte hasta curarte”
 qc_silenceofthelambs,items,Zombie Challenge Note,KgNone,Silence of the Lambs,Défi « Le silence des agneaux »,Herausforderung - Das Schweigen der Lämmer,,Desafío “El silencio de los inocentes”
 qc_yournothingspecial,items,Zombie Challenge Note,KgNone,You're Nothing Special,Défi « Tu n'as rien de spécial »,Herausforderung - Du bist nichts Besonderes,,Desafío “No eres especial”
-qc_ZombieGroupDesc,items,Zombie Challenge Note,KgNone,Jax left these notes laying around. The Club needs me. I better read it.,Un drôle de message que j'ai trouvé pendant que je pillais. Il provient du clan de Jake le cinglé.,"Eine seltsame Notiz, die ich beim Plündern gefunden habe. Sie ist von Crazy Jake's Klan.",,Descubrí una nota extraña mientras saqueaba. Es del clan Jake el Loco.
+qc_ZombieGroupDesc,items,Zombie Challenge Note,KgNone,Jax left these notes laying around. The Club needs me. I better read it.,,"Jax ließ diese Notizen liegen. Der Club braucht mich. Ich lese sie besser.",,
 betterLeadThanDead,progression,Perk,KgNone,Better Lead Than Dead,Du plomb dans la cervelle,Besser als Blei in der Birne,,Mejor con plomo que sin aplomo
 boomStick,progression,Perk,KgNone,Boom Stick,Le bâton qui fait boom,Schießeisen,,Escoba de fuego
 boomStickDesc,progression,Perk,KgNone,Your aim may be so-so but you do more damage with every rank.,"Vous ne visez pas très bien, mais vous infligez de plus en plus de dégâts au fil des rangs.","Du zielst vielleicht nicht so gut, aber mit jedem Rang verursachst du mehr Schaden.",,"Puede que la precisión no sea la mejor, pero infliges más daño con cada nivel."
@@ -4180,8 +4180,8 @@ xuiEmptyVendingMachine,UI,Menu,New,Empty Vending Machine,,Leere Verkaufsmaschine
 xuiGameDays,UI,Menu,New,Game Day(s),,,,
 xuiGameTime,UI,Menu,New,Game Time,,,,
 xuiGeneralStock,UI,Menu,New,General Stock,,,,
-xuiNoSellPrice,UI,Menu,New,No Sell Price,,,,
-xuiProductName,UI,Menu,New,Product Name,,,,
+xuiNoSellPrice,UI,Menu,New,No Sell Price,,Kein Verkaufspreis,,
+xuiProductName,UI,Menu,New,Product Name,,Produktname,,
 xuiRealTime,UI,Menu,New,Real Time,,Reale Zeit,,
 xuiRestock,UI,Menu,New,Restock,,Auffüllung,,
 xuiSecretStash,UI,Menu,New,Secret Stash,,Geheimversteck,,
@@ -4197,35 +4197,35 @@ lblCategorySpecialItems,UI,Tooltip,New,Special Items,,Spezial Items,,
 lblSortContainer,UI,Tooltip,New,Sort Container,,Sortiere Behälter,,
 lblSortInventory,UI,Tooltip,New,Sort Inventory,,Sortiere Inventar,,
 npcTooltipTalk,UI,Tooltip,New,Press <{0}> to talk to {1},,,,
-ttAlreadyRentingVM,UI,Tooltip,New,You already have a vending machine rented.,,,,
+ttAlreadyRentingVM,UI,Tooltip,New,You already have a vending machine rented.,,Du hast bereits eine Verkaufsmaschine gemietet.,,
 ttCannotSellItem,UI,Tooltip,New,I'm not interested in that item.,,Ich bin nicht an diesem Gegenstand interessiert!,,
-ttCanOnlySellAmount,UI,Tooltip,New,I can only buy {0} of that item.,,,,
-ttCombineInvalidItem,UI,Tooltip,New,Combine similar single part items of quality to make a new better item.,,,,
+ttCanOnlySellAmount,UI,Tooltip,New,I can only buy {0} of that item.,,Ich kann nur {0} Stück von dem Gegenstand kaufen.,,
+ttCombineInvalidItem,UI,Tooltip,New,Combine similar single part items of quality to make a new better item.,,"Kombiniere gleiche Einzelteile, um eins mit besserer Qualität zu erhalten.",,
 ttGFXSET_UMATexQuality_b,UI,Tooltip,New,Controls the texture baking size of UMA characters.,,,,
-ttGFXSET_UMATexQuality_h,UI,Tooltip,New,UMA Texture Quality,,,,
+ttGFXSET_UMATexQuality_h,UI,Tooltip,New,UMA Texture Quality,,UMA Texturqualität,,
 ttGFXSET_WaterParticleLimiter_b,UI,Tooltip,New,How accurate water particles match falls.\nPerformance Impact: High\n,,,,
-ttGFXSET_WaterParticleLimiter_h,UI,Tooltip,New,Water Particle Count,,,,
-ttItemCountNotBundleSize,UI,Tooltip,New,You must buy/sell this item in increments of {0}.,,,,
+ttGFXSET_WaterParticleLimiter_h,UI,Tooltip,New,Water Particle Count,,Anzahl an Wasserpartikeln,,
+ttItemCountNotBundleSize,UI,Tooltip,New,You must buy/sell this item in increments of {0}.,,"Du musst diesen Artikel in {0} Schritten kaufen/verkaufen.",,
 ttNoSpaceForBuying,UI,Tooltip,New,You do not have enough inventory space to buy this item.,,Keinen Platz im Inventar um den Gegenstand zu kaufen.,,
 ttNoSpaceForSelling,UI,Tooltip,New,You do not have enough inventory space to sell this item.,,Nicht genug Platz im Inventar um den Gegenstand zu verkaufen.,,
 ttOverstockedOnItem,UI,Tooltip,New,I am overstocked on that item.,,Ich hab mehr als genug davon!,,
 ttSteamBPM,UI,Tooltip,New,The game has to be started from Steam's Big Picture Mode to use the on-screen keyboard.,,"Das Spiel muss über Steam's Big Picture Mode gestartet werden, damit die Bildschirmtastatur verfügbar ist.",,
 ttVendingMachineMaxCoin,UI,Tooltip,New,This vending machine cannot hold anymore coin.,,Die Verkaufsmaschine kann nicht mehr Münzen aufnehmen.,,
 ttVendingMachineMaxItems,UI,Tooltip,New,This vending machine cannot hold anymore items.,,Die Verkaufsmaschine kann nicht mehr Gegenstände aufnehmen.,,
-ttVMAlreadyRented,UI,Tooltip,New,This vending machine is already rented out.,,,,
-ttVMNotEnoughMoneyAddTime,UI,Tooltip,New,You do not have enough money to add time to your rental.,,,,
-ttVMNotEnoughMoneyRent,UI,Tooltip,New,You do not have enough money to rent this vending machine.,,,,
-vendingMachineActivate,UI,Use Prompt,New,<{0}> to interact with {1},,,,
+ttVMAlreadyRented,UI,Tooltip,New,This vending machine is already rented out.,,Diese Verkaufsmaschine ist bereits vermietet.,,
+ttVMNotEnoughMoneyAddTime,UI,Tooltip,New,You do not have enough money to add time to your rental.,,"Du hast nicht genung Geld, um die Mietdauer zu verlängern.",,
+ttVMNotEnoughMoneyRent,UI,Tooltip,New,You do not have enough money to rent this vending machine.,,"Du hast nicht genug Geld, um die Verkaufsmaschine zu mieten.",,
+vendingMachineActivate,UI,Use Prompt,New,<{0}> to interact with {1},,<{0}> um mit {1} zu interagieren,,
 vkPromptCount,UI,Virtual Keyboard,New,Enter count,,Anzahl eingeben,,
 vkPromptSearchTerm,UI,Virtual Keyboard,New,Enter search term,,Suchbegriff eingeben,,
 vkPromptSignText,UI,Virtual Keyboard,New,Enter sign name,,Beschriftung für Schild eingeben,,
 vkPromptWaypointName,UI,Virtual Keyboard,New,Enter waypoint name,,Name für Wegpunkt eingeben,,
-xuiAmmo,UI,XUI,New,AMMO,,,,
+xuiAmmo,UI,XUI,New,AMMO,,MUN,,
 xuiCharacter,UI,XUI,New,CHARACTER,,,,
-xuiCombine,UI,XUI,New,COMBINE,,,,
+xuiCombine,UI,XUI,New,COMBINE,,KOMBINIEREN,,
 xuiCombineItemA,UI,XUI,New,ITEM A,,,,
 xuiCombineItemB,UI,XUI,New,ITEM B,,,,
-xuiCrafting,UI,XUI,New,CRAFTING,,,,
+xuiCrafting,UI,XUI,New,CRAFTING,,HERSTELLEN,,
 xuiEndTime,UI,XUI,New,END TIME,,,,
 xuiIngameDebugMenu,UI,XUI,New,Debug Tools,,,,
 xuiJournal,UI,XUI,New,JOURNAL,,,,
@@ -4240,7 +4240,7 @@ xuiPrefabList,UI,XUI,New,Prefab Tools,,,,
 xuiResult,UI,XUI,New,RESULT,,,,
 xuiSkillBartering,UI,XUI,New,Price Modifier,,Preismodifikator,,
 xuiSkillCurrentLevel,UI,XUI,New,Current Level:,,aktuelles Level:,,
-xuiSkills,UI,XUI,New,SKILLS,,FERTIGKEITEN,,
+xuiSkills,UI,XUI,New,SKILLS,,SKILLS,,
 xuiSkillSecretStash,UI,XUI,New,Bonus Level,,Bonus Level,,
 xuiSkillSelectedLevel,UI,XUI,New,Selected Level:,,Ausgewählter Level:,,
 xuiSlots,UI,XUI,New,SLOTS,,,,
@@ -5421,7 +5421,7 @@ sewingKit,items,Item,,Sewing Kit,,Flickwerkzeug,,
 sewingKitDesc,items,Item,,The sewing kit is used in the Tailor Station to tailor clothing.,,"Das Flickwerkzeug wird in der Schneider-Station benötigt, um Kleidung herzustellen.",,
 weldingTorch,items,Item,,Welding Torch,,Schweißbrenner,,
 weldingTorchDesc,items,Item,,This is used at the Tailor Station to craft metallic armors.,,"Dies wird in der Schneider-Station benötig, um Metallrüstungen zu fertigen.",,
-HelmetLightDesc,items,Item Clothes,,This helmet has a flashlight taped to its side to double as a headlamp.\n [ Crafted in [dd6262]Advanced Workbench[-]  ],,"Dieser Helm hat eine Taschenlampe, die an seiner Seite befestigt ist, um als Stirnlampe zu fungieren.",,
+HelmetLightDesc,items,Item Clothes,,This helmet has a flashlight taped to its side to double as a headlamp.,,"Dieser Helm hat eine Taschenlampe, die an seiner Seite befestigt ist, um als Stirnlampe zu fungieren.",,
 ironHelmetLight,items,Item Clothes,,Iron Helmet (Light),,Eisenhelm (Licht),,
 militaryHelmetLight,items,Item Clothes,,Military Helmet (Light),,Militärhelm (Licht),,
 swatHelmetLight,items,Item Clothes,,Swat Helmet (Light),,Swathelm (Licht),,
@@ -5526,7 +5526,7 @@ rWoodCNRRound,blocks,Block,KgNone,Reinforced Wood CNR Round,Angle arrondi en bri
 rWoodCNRRoundTop,blocks,Block,KgNone,Reinforced Wood CNR Round Top,Angle arrondi en brique,Verstärktes Holz - Abgerundete Ecke oben,,Esquina redonda de ladrillo
 Scavenging_skill,items,Book,KgNone,Advanced Scavenging,Schéma d'arbalète,Buch: Plündern für Fortgeschrittene,,Esquema de ballesta
 elevatorTest,blocks,Block,New,Platform Elevator,,Aufzugsplattform,,
-townTorch,blocks,Block,EnChanged KgNone,Torch (Heat Free),Torche,Adminfackel,,Antorcha
+townTorch,blocks,Block,EnChanged KgNone,Torch (Heat Free),Torche,Fackel (hitzefrei),,Antorcha
 cntVendingMachine3,blocks,Container,New,Town Vending Machine,,Verkaufsmaschine (Stadt),,
 qc_bowquestline,items,Bow Challenge,KgNone,Bow Challenge,,Herausforderung: Bögen,,
 qc_bladequestline,items,Blade Challenge,KgNone,Blade Challenge,,Herausforderung: Klingenwaffen,,
@@ -5777,14 +5777,14 @@ trueMiningTNT,blocks,Trap,EnChanged,True Mining TNT (Ammo),Vrai TNT de Minier,Wa
 trueMiningTNTDesc,blocks,Trap,KgNone,True TNT is fine crafted just for the miner in you. No more lost iron & lead ore veins. No more dying from the blast just from rock avalanches. Place on the ground and ignite it by damaging it.\n [ Crafted in [dd6262]Ammunition Table[-] with a Tool & Die Set. ],Le TNT est finement assemble juste pour le minier en vous! Perdez plus jamais les veines lead et iron! Mourrez-plus jamais des explosions seulement des avalanches de roche. Placez-la sur le sol et allumez-la en l'endommageant.,"Wahres Bergbau TNT wird extra für den Bergmann in dir hergestellt. Kein Verlust von Eisen- und Blei-Adern mehr und keine Gefahr durch herabstürzende Steine durch die Explosion. Platziere es auf dem Boden und entzünde es, indem du es beschädigst.\n [ Herzustellen im [dd6262]Munitionstisch[-] mit dem Tool & Die Set ]",,
 trueMiningTNTSchematicDesc,items,Book,KgNone,Learn to craft TNT and true TNT by reading this schematic.,Apprenez à fabriquer le TNT et le vrai TNT de minier en lisant ce schéma.,Bauplan - Wahres Bergbau TNT (Mun),,
 bowKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a crossbow, 250 iron crossbow bolts and a crossbow schematic. Exclusive Access to the Repeating Crossbow. This also unlocks Arrow Crafting. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es wird dir eine Armbrust, 250 Eisenarmbrustbolzen und ein Armbrustschema geben. Exklusiver Zugang zur Repetier-Armbrust. Dadurch wird auch Pfeilherstellung aktiviert. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-bladeKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a Kukri, 3 forged iron and a hunting knife schematic. Exclusive Access to the Katana. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es wird dir ein Jagdmesser, 3 geschmiedete Eisen und ein Jagdmesser Schema geben. Exklusiver Zugang zum Katana. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-bluntKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a spiked club, 3 forged iron and a spiked club schematic. Exclusive access to Lucille. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Dadurch erhältst du eine Nagelkeule, 3 geschmiedete Eisen und einen Nagelkeulen-Bauplan. Exklusiver Zugang zu Lucille. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-handgunKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a pistol, 500 9mm bullets and a pistol schematic. Exclusive Access to Desert Eagle. This also unlocks the Ammo Class. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es wird dir eine Pistole, 500 9mm Kugeln und ein Pistolenschema geben. Exklusiver Zugang zum Desert Eagle. Dies schaltet auch die Munitionsklasse frei. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-shotgunKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a pump shotgun, 500 shotgun shells and a pump shotgun schematic. Exclusive Access to Boomstick Shotgun. This also unlocks the Ammo Class. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es wird dir eine Pump Shotgun, 500 Schrotpatronen und ein Pump Shotgun Bauplan geben. Exklusiver Zugang zu Boomstick Schrotflinte. Dies schaltet auch die Munitionsklasse frei. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-survivalKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a wooden bow, 250 iron arrows, a claw hammer, skills in cooking as well as extra supplies. Exclusive Access to making Jars and pots and grills as well as chicken coops, sinks, stoves and rain collectors. \nAdditional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es wird dir einen hölzernen Bogen, 250 Eisenpfeile, einen Klauenhammer, Kochkünste sowie zusätzliche Vorräte geben. Exklusiver Zugang zur Herstellung von Gläsern und Töpfen und Grills sowie Hühnerställen, Spülen, Öfen und Regensammlern. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-rifleKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you an SMG, 1000 9mm bullets and an SMG schematic.Exclusive Access to the M25 Sniper Rifle and Vintorez. This also unlocks the Ammo Class. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir eine SMG, 1000 9mm Kugeln und ein SMG-Schema. Exklusiver Zugang zum M25 Scharfschützengewehr und Vintorez. Dies schaltet auch die Munitionsklasse frei. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-farmerKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a Blunderbuss with 100 ammo, some fertilizer, recipe for hoe and sickle and ability to craft some seeds. Exclusive Access to the Compost Bin, Water Well and Double Blunderbuss.  Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Du bekommst eine Blunderbuss mit 100 Munition, etwas Dünger, Rezept für Hacke und Sichel und die Möglichkeit, etwas Samen herzustellen . Exklusiver Zugang zum Kompostbehälter, zum Wasserbrunnen und zur doppelläufigen Blunderbuss. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
-medicKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a scalpel, 3 forged iron, some medical supplies and exclusive medical recipes. Exclusive Access to First Aid Kits, Antibiotics, Advanced Splints, Disinfectant Bandages and Blue Ice.  Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es wird dir ein Skalpell, 3 geschmiedete Eisen, einige medizinische Verbrauchsmaterialien und exklusive medizinische Rezepte geben. Exklusive Zugang zu Erste-Hilfe-Kits, Antibiotika, verbesserte Schienen, Desinfektions-Bandagen und Blue Ice. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+bladeKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a Kukri, 3 forged iron and a hunting knife schematic. Exclusive Access to the Katana. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir einen Kukri gibt, 3 geschmiedete Eisen und ein Jagdmesser Schema geben. Exklusiver Zugang zum Katana. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+bluntKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a spiked club, 3 forged iron and a spiked club schematic. Exclusive access to Lucille. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir eine Nagelkeule gibt, 3 geschmiedete Eisen und einen Nagelkeulen-Bauplan. Exklusiver Zugang zu Lucille. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+handgunKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a pistol, 500 9mm bullets and a pistol schematic. Exclusive Access to Desert Eagle. This also unlocks the Ammo Class. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir eine Pistole, 500 Schuss 9mm Kugeln und ein Pistolenschema gibt. Exklusiver Zugang zum Desert Eagle. Dies schaltet auch die Munitionsklasse frei. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+shotgunKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a pump shotgun, 500 shotgun shells and a pump shotgun schematic. Exclusive Access to Boomstick Shotgun. This also unlocks the Ammo Class. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir eine Pump-Shotgun, 500 Schrotpatronen und ein Pump-Shotgun Bauplan gibt. Exklusiver Zugang zu Boomstick Schrotflinte. Dies schaltet auch die Munitionsklasse frei. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+survivalKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a wooden bow, 250 iron arrows, a claw hammer, skills in cooking as well as extra supplies. Exclusive Access to making Jars and pots and grills as well as chicken coops, sinks, stoves and rain collectors. \nAdditional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir einen hölzernen Bogen, 250 Eisenpfeile, einen Klauenhammer, Kochkünste sowie zusätzliche Vorräte gibt. Exklusiver Zugang zur Herstellung von Gläsern, Schüsseln und Grills sowie Hühnerställen, Spülen, Öfen und Regensammlern. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+rifleKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you an SMG, 1000 9mm bullets and an SMG schematic.Exclusive Access to the M25 Sniper Rifle and Vintorez. This also unlocks the Ammo Class. Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir eine SMG, 1000 Schuss 9mm Kugeln und ein SMG-Schema gibt. Exklusiver Zugang zum M25 Scharfschützengewehr und Vintorez. Dies schaltet auch die Munitionsklasse frei. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+farmerKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a Blunderbuss with 100 ammo, some fertilizer, recipe for hoe and sickle and ability to craft some seeds. Exclusive Access to the Compost Bin, Water Well and Double Blunderbuss.  Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir eine Blunderbuss mit 100 Munition, etwas Dünger, Rezept für Hacke und Sichel und die Möglichkeit, etwas Samen herzustellen . Exklusiver Zugang zum Kompostbehälter, zum Wasserbrunnen und zur doppelläufigen Blunderbuss. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
+medicKitDesc,blocks,Block Building,,"Place this kit on the ground and open with the provided key. You will receive your Class Paper which will give you a scalpel, 3 forged iron, some medical supplies and exclusive medical recipes. Exclusive Access to First Aid Kits, Antibiotics, Advanced Splints, Disinfectant Bandages and Blue Ice.  Additional Keys can be crafted in your inventory if you need one.\n [ Crafted in [dd6262]Research Desk[-] with an Ink Pen. ]",,"Lege dieses Set auf den Boden und öffne es mit dem mitgelieferten Schlüssel. Es gibt dir das Klassenpaier welches dir ein Skalpell, 3 geschmiedete Eisen, einige medizinische Verbrauchsmaterialien und exklusive medizinische Rezepte gibt. Exklusive Zugang zu Erste-Hilfe-Kits, Antibiotika, verbesserte Schienen, Desinfektions-Bandagen und Blue Ice. Zusätzliche Schlüssel können in deinem Inventar erstellt werden, wenn du eines brauchst.\n [ Herzustellen im [dd6262]Forschungstisch[-] mit einem Tintenfüller ]",,
 ironCrossbow,items,Item Gun,,Iron Crossbow,,Eisen-Armbrust,,
 ClassPaperMedicine,items,Item,KgNone,Medic Class Paper,,Klassenpapier: Medizin,,
 ClassPaperFarmer,items,Item,KgNone,Farmer Class Paper,,Klassenpapier: Farmer,,
@@ -6283,6 +6283,7 @@ steelTippedSpearDesc,,,,A spear made from a steel arrow head that can be used to
 metalPipeDesc,,,,This pipe is heavy enough that it can be used to get you out of a jam,,"Dieses Rohr ist schwer genug, um aus einem Stau herauszukommen",,
 metalPipe,,,,Lead Pipe,,Bleirohr,,
 crowbarDesc,,,,This crowbar can be used to kill zombies or to harvest materials,,"Diese Brechstange kann verwendet werden, um Zombies zu töten oder Materialien zu sammeln",,
+Pitchfork,,,,Pitchfork,,Heugabel,,
 PitchforkDesc,,,,Once used by farmers to harvest hay now it can come in quite handy against that damn zombie farmer,,"Früher von den Bauern benutzt, um Heu zu ernten, kann es heute gegen den verdammten Zombie-Bauer ganz praktisch sein.",,
 skinningKnife,,,,Skinning Knife,,Häutungsmesser,,
 skinningKnifeDesc,,,,A knife used for skinning animals,,Ein Messer zum häuten von Tieren,,
@@ -6512,30 +6513,30 @@ PistolSilenced,items,Item,KgNone,Pistol (Silenced),,Pistole (schallgedämpft),,
 PistolSilencedDesc,items,Item,KgNone,A Pistol with a Silencer Attachment,Un pistolet avec une attache de silencieux,Eine Pistole mit Schalldämpfer.,,Una pistola con un accesorio de silenciador
 PistolExtendedMagSilenced,items,Item,KgNone,Pistol (Extended Mag Silenced),,Pistole (erw. Magazin/schallgedämpft),,
 PistolExtendedMagSilencedDesc,items,Item,KgNone,A Pistol with a Extended Magazine and Silencer Attachments,Un pistolet avec un compartiment étendu et des attaches de silencieux,Eine Pistole mit einem erweiterten Magazin und Schalldämpfer Attachments,,Una Pistola con una Extensión de Compartimiento y Silenciador
-SteelMinibikeChassis,items,Item,KgNone,Strengthened Minibike Chassis,,Verstärktes Minibike-Fahrwerk,,
-SteelMinibikeChassisDesc,items,Item,KgNone,Minibike Chassis made from Steel\n [ Crafted in [dd6262]Blacksmith Station[-] with a Blacksmith Hammer. ],Châssis miniature en acier,Minibike-Fahrwerk aus Stahl\n [ Herzustellen in der [dd6262]Schmiede-Station[-] mit einem Schmiedehammer ],,Chasis de Minibike de acero
-TungstenMinibikeChassis,items,Item,KgNone,Diamond Minibike Chassis,,Minibike-Fahrwerk aus Diamant,,
-TungstenMinibikeChassisDesc,items,Item,KgNone,Minibike Chassis made from Diamond\n [ Crafted in [dd6262]Blacksmith Station[-] with a Blacksmith Hammer. ],Châssis miniature en tungstène,Minibike-Fahrwerk aus Diamant\n [ Herzustellen in der [dd6262]Schmiede-Station[-] mit einem Schmiedehammer ],,Chasis Minibike de Tungsteno
-HDSmallEngine,items,Item,KgNone,Diamond Small Engine,,Kleiner Diamantmotor,,
+steelMinibikeChassis,items,Item,KgNone,Strengthened Minibike Chassis,,Verstärktes Minibike-Fahrwerk,,
+steelMinibikeChassisDesc,items,Item,KgNone,Minibike Chassis made from Steel\n [ Crafted in [dd6262]Blacksmith Station[-] with a Blacksmith Hammer. ],Châssis miniature en acier,Minibike-Fahrwerk aus Stahl\n [ Herzustellen in der [dd6262]Schmiede-Station[-] mit einem Schmiedehammer ],,Chasis de Minibike de acero
+diamondMinibikeChassis,items,Item,KgNone,Diamond Minibike Chassis,,Minibike-Fahrwerk aus Diamant,,
+diamondMinibikeChassisDesc,items,Item,KgNone,Minibike Chassis made from Diamond\n [ Crafted in [dd6262]Blacksmith Station[-] with a Blacksmith Hammer. ],Châssis miniature en tungstène,Minibike-Fahrwerk aus Diamant\n [ Herzustellen in der [dd6262]Schmiede-Station[-] mit einem Schmiedehammer ],,Chasis Minibike de Tungsteno
+HDSmallEngine,items,Item,KgNone,Heavy Duty Small Engine,,Kleiner Diamantmotor,,
 HDSmallEngineDesc,items,Item,KgNone,A Heavy Duty Engine\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Un moteur robuste,Ein Hochleistungs-Motor.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Un motor de trabajo pesado
-ECOSmallEngine,items,Item,KgNone,ECO Small Engine,,Kleiner Öko-Motor,,
-ECOSmallEngineDesc,items,Item,KgNone,A Economic Friendly Engine\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Un moteur économique convivial,Ein ökonomischer kleiner Motor\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Un motor económico amigable
+ECOSmallEngine,items,Item,KgNone,Economic Engine,,Kleiner Öko-Motor,,
+ECOSmallEngineDesc,items,Item,KgNone,An Economic Friendly Engine\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Un moteur économique convivial,Ein ökonomischer kleiner Motor\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Un motor económico amigable
 KevlarMinibikeSeat,items,Item,KgNone,Strengthened Minibike Seat,,Verstärkte Minibike-Sitzbank,,
 KevlarMinibikeSeatDesc,items,Item,KgNone,Minibike seat made with Military Fiber\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Siège Minibike fabriqué avec Kevlar,Minibike-Sitz aus militärischer Faser hergestellt.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Asiento de minibike hecho con Kevlar
-TungstenMinibikeSeat,items,Item,KgNone,Diamond Minibike Seat,,Minibike-Sitzbank aus Diamant,,
-TungstenMinibikeSeatDesc,items,Item,KgNone,Minibike seat made with Diamond\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Siège miniature en acier,Minibike-Sitz aus Diamant.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Asiento de Minibike hecho con acero
+diamondMinibikeSeat,items,Item,KgNone,Diamond Minibike Seat,,Minibike-Sitzbank aus Diamant,,
+diamondMinibikeSeatDesc,items,Item,KgNone,Minibike seat made with Diamond\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Siège miniature en acier,Minibike-Sitz aus Diamant.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Asiento de Minibike hecho con acero
 HDMinibikeWheels,items,Item,KgNone,Diamond Minibike Wheels,,Minibike-Räder aus Diamant,,
 HDMinibikeWheelsDesc,items,Item,KgNone,Heavy Duty Minibike Wheels,Roues de minibike lourdes,Schwere Minibike-Räder,,Ruedas de Minibike para servicio pesado
-TungstenPadlock,items,Item,KgNone,Diamond Padlock,,Diamant Vorhängeschloss,,
-TungstenPadlockDesc,items,Item,KgNone,A Diamond Padlock for your minibike,Un cadenas en tungstène pour votre minibike,Ein Diamant Vorhängeschloss für dein Minibike,,Un candado de tungsteno para su minibike
-SteelMinibikeHandlebars,items,Item,KgNone,Strengthened Minibike Handlebars,,Verstärkter Minibike-Lenker,,
-SteelMinibikeHandlebarsDesc,items,Item,KgNone,Minibike handlebars made with Steel\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Guidon Minibike en Acier,Minibike-Lenker aus Stahl.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillar de Minibike fabricado con Acero
-TungstenMinibikeHandlebars,items,Item,KgNone,Diamond Minibike Handlebars,,Minibike-Lenker aus Diamant,,
-TungstenMinibikeHandlebarsDesc,items,Item,KgNone,Minibike handlebars made with Diamond\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Guidon Minibike fabriqué avec Tungsten,Minibike-Lenker aus Diamant.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillares de Minibike fabricados con Tungsteno
-SteelHandlebars,items,Item,KgNone,Strengthened Handlebars,,Verstärkte Handgriffe,,
-SteelHandlebarsDesc,items,Item,KgNone,Handlebars made with Steel\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Poignées en acier,Handgriffe aus Stahl.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillar hecho con acero
-TungstenHandlebars,items,Item,KgNone,Diamond Handlebars,,Handgriffe aus Diamant,,
-TungstenHandlebarsDesc,items,Item,KgNone,Handlebars made with Diamond\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Guidons en tungstène,Handgriffe aus Diamant.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillares fabricados con Tungsteno
+diamondPadlock,items,Item,KgNone,Diamond Padlock,,Diamant Vorhängeschloss,,
+diamondPadlockDesc,items,Item,KgNone,A Diamond Padlock for your minibike,Un cadenas en tungstène pour votre minibike,Ein Diamant Vorhängeschloss für dein Minibike,,Un candado de tungsteno para su minibike
+steelMinibikeHandlebars,items,Item,KgNone,Strengthened Minibike Handlebars,,Verstärkter Minibike-Lenker,,
+steelMinibikeHandlebarsDesc,items,Item,KgNone,Minibike handlebars made with Steel\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Guidon Minibike en Acier,Minibike-Lenker aus Stahl.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillar de Minibike fabricado con Acero
+diamondMinibikeHandlebars,items,Item,KgNone,Diamond Minibike Handlebars,,Minibike-Lenker aus Diamant,,
+diamondMinibikeHandlebarsDesc,items,Item,KgNone,Minibike handlebars made with Diamond\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Guidon Minibike fabriqué avec Tungsten,Minibike-Lenker aus Diamant.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillares de Minibike fabricados con Tungsteno
+steelHandlebars,items,Item,KgNone,Strengthened Handlebars,,Verstärkte Handgriffe,,
+steelHandlebarsDesc,items,Item,KgNone,Handlebars made with Steel\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Poignées en acier,Handgriffe aus Stahl.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillar hecho con acero
+diamondHandlebars,items,Item,KgNone,Diamond Handlebars,,Handgriffe aus Diamant,,
+diamondHandlebarsDesc,items,Item,KgNone,Handlebars made with Diamond\n [ Crafted in [dd6262]Advanced Workbench[-]  ],Guidons en tungstène,Handgriffe aus Diamant.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ],,Manillares fabricados con Tungsteno
 HDBattery,items,Item,KgNone,Superior Battery,,Hochleistungsbatterie,,
 HDBatteryDesc,items,Item,KgNone,A Heavy Duty Battery that lasts a lot longer and is stronger than all other batteries. \n [ Crafted in [dd6262]Advanced Workbench[-]  ],Une batterie lourde,"Eine Hochleistungsbatterie, die viel länger hält und stärker ist als alle anderen Batterien.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ]",,Una batería resistente
 ECOBattery,items,Item,KgNone,Economic Battery,,Wirtschaftliche Batterie,,
@@ -6544,30 +6545,30 @@ MinibikesForSmartshits,items,Item,KgNone,Minibikes For Smartshits,,Minibike für
 MinibikesForSmartshitsDesc,items,Item,KgNone,Schematic for Assembling a Steel Minibike,Schéma pour l'assemblage d'un minibike en acier,Schematischer Aufbau eines Stahlminibikes,,Esquema para montar un minibike de acero
 MinibikesForToughshits,items,Item,KgNone,Minibikes For Toughshits,,Minibike für Dummschwätzer,,
 MinibikesForToughshitsDesc,items,Item,KgNone,Schematic for Assembling a Diamond Minibike,Schéma pour assembler un minibike de tungstène,Schema zur Montage eines Wolfram-Minibikes,,Esquema para montar un minibike de tungsteno
-ECOAuger,items,Item,KgNone,Steel Auger,,Stahl-Erdbohrer,,
-ECOAugerDesc,items,Item,KgNone,A Steel Auger\n [ Crafted in [dd6262]assembly[-]  ],A Auger économique,Ein wirtschaftlicher Erdbohrer\n[ Herzustellen durch [dd6262]Zusammensetzen[-] ],,A Auger económico
-ECOAuger_Parts,items,Item,KgNone,Steel Auger Parts,,Stahl-Erdbohrer Teile,,
-ECOAuger_PartsDesc,items,Item,KgNone,Parts for Assembling a Steel Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Pièces pour l'assemblage d'un ECO Auger,Teile für die Montage eines Stahl-Erdbohrers\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Piezas para ensamblar un ECO Auger
-ECOAuger_Blade,items,Item,KgNone,Steel Auger Blade,,Stahl-Erdbohrer Bohrkopf,,
-ECOAuger_BladeDesc,items,Item,KgNone,Blade for Assembling a Steel Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Lame pour l'assemblage d'un ECO Auger,Klinge für die Montage eines Stahl-Erdbohrers\n[ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Cuchilla para montar un ECO Auger
-ECOAugerSchematic,items,Item,KgNone,Steel Auger Schematic,,"Bauplan: Stahl-Erdbohrer",,
-ECOAugerSchematicDesc,items,Item,KgNone,Schematic for Assembling a Steel Auger,Schéma de montage d'un ECO Auger,Bauplan für die Montage eines Stahl-Erdbohrers,,Esquema para montar un ECO Auger
-HDAuger,items,Item,KgNone,Diamond Auger,,Diamant-Erdbohrer,,
-HDAugerDesc,items,Item,KgNone,A Heavy Duty Auger\n [ Crafted in [dd6262]assembly[-]  ],Un tarière robuste,Eine Hochleistungserdbohrer\n [ Herzustellen durch [dd6262]Zusammensetzen[-] ],,Una barrena de servicio pesado
-HDAuger_Parts,items,Item,KgNone,Diamond Auger Parts,,Diamant-Erdbohrer Teile,,
-HDAuger_PartsDesc,items,Item,KgNone,Parts for Assembling a Diamond Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Pièces pour l'assemblage d'une vis sans fin HD,Teile für die Montage eines Diamant-Erdbohrers\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Piezas para ensamblar un sinfín HD
-HDAuger_Blade,items,Item,KgNone,Diamond Auger Blade,,Diamant-Erdbohrer Bohrkopf,,
-HDAuger_BladeDesc,items,Item,KgNone,Blade for Assembline a Diamond Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Lame pour montage d'une vis sans fin HD,Klingen für die Montage eines Diamant-Erdbohrers\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Cuchilla para ensamblar un tornillo de alta definición
-HDAugerSchematic,items,Item,KgNone,Diamond Auger Schematic,,Bauplan: Diamant-Erdbohrer,,
-HDAugerSchematicDesc,items,Item,KgNone,Schematic for Assembling a Diamond Auger,Schéma d'assemblage d'une vis sans fin HD,Bauplan für die Montage eines Diamant-Erdbohrers,,Esquema para montar un tornillo sinfín HD
-ECOChainsaw,items,Item,KgNone,Steel Chainsaw,,Stahl-Kettensäge,,
-ECOChainsawDesc,items,Item,KgNone,A Steel Chainsaw\n [ Crafted in [dd6262]assembly[-]  ],Une scie économique,Eine Stahl-Kettensäge\n [ Herzustellen durch [dd6262]Zusammensetzen[-] ],,Una motosierra económica
-ECOChainsaw_Parts,items,Item,KgNone,Steel Chainsaw Parts,,Stahl-Kettensäge Teile,,
-ECOChainsaw_PartsDesc,items,Item,KgNone,Parts for Assembling a Steel Chainsaw\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Pièces pour assembler une tronçonneuse ECO,Teile für die Montage einer Stahl-Kettensäge\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Piezas para montar una motosierra ECO
-ECOChainsaw_Blade,items,Item,KgNone,Steel Chainsaw Blade,,Stahl-Kettensägen Schwert,,
-ECOChainsaw_BladeDesc,items,Item,KgNone,Blade for Assembling a Steel Chainsaw\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Lame pour assembler une tronçonneuse ECO,Klinge zur Montage einer Stahl-Kettensäge\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Cuchilla para ensamblar una motosierra ECO
-ECOChainsawSchematic,items,Item,KgNone,Steel Chainsaw Schematic,,"Bauplan: Stahl-Kettensäge",,
-ECOChainsawSchematicDesc,items,Item,KgNone,Schematic for Assembling a Steel Chainsaw,Schéma pour l'assemblage d'une tronçonneuse ECO,Bauplan für die Montage einer Stahl-Kettensäge,,Esquema para montar una motosierra ECO
+steelAuger,items,Item,KgNone,Steel Auger,,Stahl-Erdbohrer,,
+steelAugerDesc,items,Item,KgNone,A Steel Auger\n [ Crafted in [dd6262]assembly[-]  ],A Auger économique,Ein wirtschaftlicher Erdbohrer\n[ Herzustellen durch [dd6262]Zusammensetzen[-] ],,A Auger económico
+steelAuger_Parts,items,Item,KgNone,Steel Auger Parts,,Stahl-Erdbohrer Teile,,
+steelAuger_PartsDesc,items,Item,KgNone,Parts for Assembling a Steel Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Pièces pour l'assemblage d'un ECO Auger,Teile für die Montage eines Stahl-Erdbohrers\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Piezas para ensamblar un ECO Auger
+steelAuger_Blade,items,Item,KgNone,Steel Auger Blade,,Stahl-Erdbohrer Bohrkopf,,
+steelAuger_BladeDesc,items,Item,KgNone,Blade for Assembling a Steel Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Lame pour l'assemblage d'un ECO Auger,Klinge für die Montage eines Stahl-Erdbohrers\n[ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Cuchilla para montar un ECO Auger
+steelAugerSchematic,items,Item,KgNone,Steel Auger Schematic,,"Bauplan: Stahl-Erdbohrer",,
+steelAugerSchematicDesc,items,Item,KgNone,Schematic for Assembling a Steel Auger,Schéma de montage d'un ECO Auger,Bauplan für die Montage eines Stahl-Erdbohrers,,Esquema para montar un ECO Auger
+diamondAuger,items,Item,KgNone,Diamond Auger,,Diamant-Erdbohrer,,
+diamondAugerDesc,items,Item,KgNone,A Heavy Duty Auger\n [ Crafted in [dd6262]assembly[-]  ],Un tarière robuste,Eine Hochleistungserdbohrer\n [ Herzustellen durch [dd6262]Zusammensetzen[-] ],,Una barrena de servicio pesado
+diamondAuger_Parts,items,Item,KgNone,Diamond Auger Parts,,Diamant-Erdbohrer Teile,,
+diamondAuger_PartsDesc,items,Item,KgNone,Parts for Assembling a Diamond Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Pièces pour l'assemblage d'une vis sans fin HD,Teile für die Montage eines Diamant-Erdbohrers\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Piezas para ensamblar un sinfín HD
+diamondAuger_Blade,items,Item,KgNone,Diamond Auger Blade,,Diamant-Erdbohrer Bohrkopf,,
+diamondAuger_BladeDesc,items,Item,KgNone,Blade for Assembline a Diamond Auger\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Lame pour montage d'une vis sans fin HD,Klingen für die Montage eines Diamant-Erdbohrers\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Cuchilla para ensamblar un tornillo de alta definición
+diamondAugerSchematic,items,Item,KgNone,Diamond Auger Schematic,,Bauplan: Diamant-Erdbohrer,,
+diamondAugerSchematicDesc,items,Item,KgNone,Schematic for Assembling a Diamond Auger,Schéma d'assemblage d'une vis sans fin HD,Bauplan für die Montage eines Diamant-Erdbohrers,,Esquema para montar un tornillo sinfín HD
+steelChainsaw,items,Item,KgNone,Steel Chainsaw,,Stahl-Kettensäge,,
+steelChainsawDesc,items,Item,KgNone,A Steel Chainsaw\n [ Crafted in [dd6262]assembly[-]  ],Une scie économique,Eine Stahl-Kettensäge\n [ Herzustellen durch [dd6262]Zusammensetzen[-] ],,Una motosierra económica
+steelChainsaw_Parts,items,Item,KgNone,Steel Chainsaw Parts,,Stahl-Kettensäge Teile,,
+steelChainsaw_PartsDesc,items,Item,KgNone,Parts for Assembling a Steel Chainsaw\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Pièces pour assembler une tronçonneuse ECO,Teile für die Montage einer Stahl-Kettensäge\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Piezas para montar una motosierra ECO
+steelChainsaw_Blade,items,Item,KgNone,Steel Chainsaw Blade,,Stahl-Kettensägen Schwert,,
+steelChainsaw_BladeDesc,items,Item,KgNone,Blade for Assembling a Steel Chainsaw\n [ Crafted in [dd6262]Advanced Workbench[-] with a Chisel. ],Lame pour assembler une tronçonneuse ECO,Klinge zur Montage einer Stahl-Kettensäge\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] mit einem Stechbeitel ],,Cuchilla para ensamblar una motosierra ECO
+steelChainsawSchematic,items,Item,KgNone,Steel Chainsaw Schematic,,"Bauplan: Stahl-Kettensäge",,
+steelChainsawSchematicDesc,items,Item,KgNone,Schematic for Assembling a Steel Chainsaw,Schéma pour l'assemblage d'une tronçonneuse ECO,Bauplan für die Montage einer Stahl-Kettensäge,,Esquema para montar una motosierra ECO
 HDChainsaw,items,Item,KgNone,Diamond Chainsaw,,Diamant-Kettensäge,,
 HDChainsawDesc,items,Item,KgNone,A Heavy Duty Chainsaw\n [ Crafted in [dd6262]assembly[-]  ],Une tronçonneuse lourde,Eine Hochleistungs-Kettensäge\n [ Herzustellen durch [dd6262]Zusammensetzen[-] ],,Una motosierra pesada
 HDChainsaw_Parts,items,Item,KgNone,Diamond Chainsaw Parts,,Diamant-Kettensäge Teile,,
@@ -7145,9 +7146,9 @@ damagedVanD1,,,,Damaged Old Van,,Beschädigter alter Van,,
 damagedVanD2,,,,Wrecked Old Van,,Ruinierter alter Van,,
 fireTruck,,,,Fire Truck,,Feuerwehrauto,,
 SteamTrain,,,,Steam Engine,,Dampfmaschine,,
-transporter01D0,,,,Old Truck,,,,
-transporter01D1,,,,Damaged Old Truck,,,,
-transporter01D2,,,,Wrecked Old Truck,,,,
+transporter01D0,,,,Old Truck,,Alter Truck,,
+transporter01D1,,,,Damaged Old Truck,,Beschädigter alter Truck,,
+transporter01D2,,,,Wrecked Old Truck,,Ruinierter alter Truck,,
 transporter02D0,,,,Old Tanker Truck,,,,
 transporter02D1,,,,Damaged Old Tanker Truck,,,,
 transporter02D2,,,,Wrecked Old Tanker Truck,,,,
@@ -7184,34 +7185,34 @@ spaghetti,,,,Spaghetti,,Spaghetti,,
 spaghettiDesc,,,,A delicious helping of hearty Italian Spaghetti. Wheres the Meatballs.\n [ Crafted in [dd6262]Stoves[-] with a Skillet. ],,"Eine köstliche Portion herzhafter italienischer Spaghetti. Wo sind die Fleischbällchen?\n [ Herzustellen im [dd6262]Ofen[-] mit einer Bratpfanne ]",,
 mirrorBathDesc,,,,A good place to store your medical supplies.\n [ Crafted in [dd6262]Decorating Station[-]  ],,"Ein guter Ort, um deine medizinischen Materialien zu lagern.\n [ Herzustellen in der [dd6262]Dekorations-Station[-] ]",,
 PinupsDesc,,,,This may look a little weird to some but Farrah Fawcett is dead now and this will do.\n [ Crafted in [dd6262]Decorating Station[-]  ],,"Das mag für einige etwas seltsam aussehen, aber Farrah Fawcett ist jetzt tot und das hier, wird auch ausreichen.\n [ Herzustellen in der [dd6262]Dekorations-Station[-] ]",,
-adminbucket,,,,Admin Bucket,,,,
-adminbucketWater,,,,Admin Water Filled Bucket,,,,
+adminbucket,,,,Admin Bucket,,Admin-Eimer,,
+adminbucketWater,,,,Admin Water Filled Bucket,,Admin-Eimer mit Wasser,,
 adminbucketDesc,,,,Admin use only. Can be used to fill pools and dump water.,,,,
 BricksDesc,,,,Bricks can be used to make brick blocks for building bases and houses.\n [ Crafted in [dd6262]Forge[-] and [dd6262]Advanced Forge[-]. ],,"Ziegel können verwendet werden, um Blöcke für den Bau von Basen und Häusern zu machen.\n [ Herzustellen im [dd6262]Schmiederofen[-] und im [dd6262]verbesserten Schmiedeofen[-] ]",,
-tipSticks,,,,Journal Entry 1,,,,
-tipsToolheads,,,,Journal Entry 2,,,,
-tipScavenging,,,,Journal Entry 3,,,,
-tipLeathermaking,,,,Journal Entry 4,,,,
-tipCarparts,,,,Journal Entry 5,,,,
-tipKP,,,,Journal Entry 6,,,,
-tipWeaponparts,,,,Journal Entry 7,,,,
-tipDryingrack,,,,Journal Entry 8,,,,
-tipTailorstation,,,,Journal Entry 9,,,,
-tipNewstations,,,,Journal Entry 10,,,,
-tipNightterrors,,,,Journal Entry 11,,,,
-tipNewores,,,,Journal Entry 12,,,,
-tipAdvancedworkbench,,,,Journal Entry 13,,,,
-tipAdvancedforge,,,,Journal Entry 14,,,,
-tipnewSeeds,,,,Journal Entry 15,,,,
-tipNewcooking,,,,Journal Entry 16,,,,
-tipRecipeunlocks,,,,Journal Entry 17,,,,
-tipPrimitivetools,,,,Journal Entry 18,,,,
-tipIronsteel,,,,Journal Entry 19,,,,
-tipScraptools,,,,Journal Entry 20,,,,
-tipCrowbars,,,,Journal Entry 21,,,,
-tipKnives,,,,Journal Entry 22,,,,
-tipWeaponstation,,,,Journal Entry 23,,,,
-journalQuest,,,,Ravenhearst Guide,,,,
+tipSticks,,,,Journal Entry 1,,Journaleintrag 1,,
+tipsToolheads,,,,Journal Entry 2,,Journaleintrag 2,,
+tipScavenging,,,,Journal Entry 3,,Journaleintrag 3,,
+tipLeathermaking,,,,Journal Entry 4,,Journaleintrag 4,,
+tipCarparts,,,,Journal Entry 5,,Journaleintrag 5,,
+tipKP,,,,Journal Entry 6,,Journaleintrag 6,,
+tipWeaponparts,,,,Journal Entry 7,,Journaleintrag 7,,
+tipDryingrack,,,,Journal Entry 8,,Journaleintrag 8,,
+tipTailorstation,,,,Journal Entry 9,,Journaleintrag 9,,
+tipNewstations,,,,Journal Entry 10,,Journaleintrag 10,,
+tipNightterrors,,,,Journal Entry 11,,Journaleintrag 11,,
+tipNewores,,,,Journal Entry 12,,Journaleintrag 12,,
+tipAdvancedworkbench,,,,Journal Entry 13,,Journaleintrag 13,,
+tipAdvancedforge,,,,Journal Entry 14,,Journaleintrag 14,,
+tipnewSeeds,,,,Journal Entry 15,,Journaleintrag 15,,
+tipNewcooking,,,,Journal Entry 16,,Journaleintrag 16,,
+tipRecipeunlocks,,,,Journal Entry 17,,Journaleintrag 17,,
+tipPrimitivetools,,,,Journal Entry 18,,Journaleintrag 18,,
+tipIronsteel,,,,Journal Entry 19,,Journaleintrag 19,,
+tipScraptools,,,,Journal Entry 20,,Journaleintrag 20,,
+tipCrowbars,,,,Journal Entry 21,,Journaleintrag 21,,
+tipKnives,,,,Journal Entry 22,,Journaleintrag 22,,
+tipWeaponstation,,,,Journal Entry 23,,Journaleintrag 23,,
+journalQuest,,,,Ravenhearst Guide,,Ravenhearst Guide,,
 journalQuestDesc,,,,After the entries are added to the Journal Click one of these books and click Recipes to make 1 Collection of Knowledge Points that can be scrapped into 2 Knowledge Points.,,"Nachdem die Einträge zum Journal hinzugefügt wurden, klicke auf eines dieser Bücher und dann auf Rezepte, um 1 Sammlung von Wissenspunkten zu erstellen, die in 2 Wissenspunkte zerlegt werden kann.",,
 ravenhearstguideDesc,,,,Craft this book and read it to learn the ins and outs of Ravenhearst. BE CAREFUL as it will place 20 Items in your bag so make sure you have room! After the entries are added to the Journal Click one of these books and click Recipes to make 1 Collection of Knowledge Points that can be scrapped into 2 Knowledge Points.,,"Stelle dieses Buch her und lies es, um alles über Ravenhearst zu erfahren. Sei vorsichtig, denn es werden 20 Gegenstände in deine Tasche gelegt, also stelle sicher, dass genug Platz ist! Nachdem die Einträge zum Journal hinzugefügt wurden, klicke auf eines dieser Bücher und dann auf Rezepte, um 1 Sammlung von Wissenspunkten zu erstellen, die in 2 Wissenspunkte zerlegt werden kann",,
 zombiePinup01,,,,Zombie Pin Up Girl 1,,,,
@@ -7317,7 +7318,7 @@ metalReinforcedWoodDrawBridgeDouble,blocks,Block,New,Reinforced Double Drawbridg
 billboard,,,,Billboard,,Werbetafel,,
 billboardDesc,,,,A rules board testing this.,,,,
 breadSliceDesc,,,,Slicing bread in the Food Prep Table will allow you to make sandwiches.\n [ Crafted in [dd6262]Food Prep Table[-] with a Butcher's Knife. ],,Schneide Brot am Zubereitungstisch für Nahrung damit du Sandwiches herstellen kannst.\n [ Herzustellen am [dd6262]Zubereitungstisch für Nahrung[-] mit einem Fleischermesser ],,
-breadSlice,,,,Slice of Bread.,,Scheibe Brot,,
+breadSlice,,,,Slice of Bread,,Scheibe Brot,,
 cntStorageChest1,blocks,Container,KgNone,Storage Chest,Coffre de rangement,Aufbewahrungstruhe,,Cofre de almacenamiento
 cntSecureStorageChest2Desc,blocks,Container,KgNone,A basic storage box that can hold more than a cardboard box. You can lock this box and code it by Holding E,Maintenez [activate] pour le verrouiller ou définir un code.,"Eine Standard Lagermöglichkeit in die mehr reinpasst als in einen Pappkarton. Du kannst diese Kiste verschließen und einen Code vergeben, in dem du die ''Benutzen-Taste'' gedrückt hältst.",,Mantén presionado [activate] para cerrar con llave o para definir una combinación.
 cntSecureStorageChest1,blocks,Container,KgNone,Secure Chest (Medium Storage),Coffre de rangement sécurisé,Gesicherte Aufbewahrungstruhe (mittlerer Stauraum),,Cofre de almacenamiento seguro
@@ -7480,7 +7481,7 @@ binoculars,,,,Binoculars,,Fernglas,,
 lockpick,,,,Lockpick,,Dietrich,,
 drinkEnergyDesc,,,,Energy drinks can provide a mega boost for your stamina,,Energy-Drinks können deine Ausdauer enorm steigern.,,
 rainCatcherFullDesc,,,,Full Rain Catcher,,Volle Regentonne,,
-crackers,,,,Crackers,,,,
+crackers,,,,Crackers,,Crackers,,
 dough,,,,Dough,,Teig,,
 bread,,,,Bread,,Brot,,
 yeast,,,,Yeast,,Hefe,,
@@ -7686,14 +7687,14 @@ chainsawSchematicvol1,,,,Chainsaws Volume 1,,Kettensägen Vol. 1,,
 chainsawSchematicvol2,,,,Chainsaws Volume 2,,Kettensägen Vol. 2,,
 chainsawSchematicvol3,,,,Chainsaws Volume 3,,Kettensägen Vol. 3,,
 chainsawSchematicvol4,,,,Chainsaws Volume 4,,Kettensägen Vol. 4,,
-ECOAugerSchematicvol1,,,,Steel Augers Volume 1,,Stahl-Erdbohrer Vol. 1,,
-ECOAugerSchematicvol2,,,,Steel Augers Volume 2,,Stahl-Erdbohrer Vol. 2,,
-ECOAugerSchematicvol3,,,,Steel Augers Volume 3,,Stahl-Erdbohrer Vol. 3,,
-ECOAugerSchematicvol4,,,,Steel Augers Volume 4,,Stahl-Erdbohrer Vol. 4,,
-ECOChainsawSchematicvol1,,,,Steel Chainsaws Volume 1,,Stahl-Kettensägen Vol. 1,,
-ECOChainsawSchematicvol2,,,,Steel Chainsaws Volume 2,,Stahl-Kettensägen Vol. 2,,
-ECOChainsawSchematicvol3,,,,Steel Chainsaws Volume 3,,Stahl-Kettensägen Vol. 3,,
-ECOChainsawSchematicvol4,,,,Steel Chainsaws Volume 4,,Stahl-Kettensägen Vol. 4,,
+steelAugerSchematicvol1,,,,Steel Augers Volume 1,,Stahl-Erdbohrer Vol. 1,,
+steelAugerSchematicvol2,,,,Steel Augers Volume 2,,Stahl-Erdbohrer Vol. 2,,
+steelAugerSchematicvol3,,,,Steel Augers Volume 3,,Stahl-Erdbohrer Vol. 3,,
+steelAugerSchematicvol4,,,,Steel Augers Volume 4,,Stahl-Erdbohrer Vol. 4,,
+steelChainsawSchematicvol1,,,,Steel Chainsaws Volume 1,,Stahl-Kettensägen Vol. 1,,
+steelChainsawSchematicvol2,,,,Steel Chainsaws Volume 2,,Stahl-Kettensägen Vol. 2,,
+steelChainsawSchematicvol3,,,,Steel Chainsaws Volume 3,,Stahl-Kettensägen Vol. 3,,
+steelChainsawSchematicvol4,,,,Steel Chainsaws Volume 4,,Stahl-Kettensägen Vol. 4,,
 pistolBookvol1,,,,Getting to Know Your Handguns Volume 1,,Lerne deine Pistolen kennen Vol. 1,,
 pistolBookvol2,,,,Getting to Know Your Handguns Volume 2,,Lerne deine Pistolen kennen Vol. 2,,
 pistolBookvol3,,,,Getting to Know Your Handguns Volume 3,,Lerne deine Pistolen kennen Vol. 3,,
@@ -7731,17 +7732,17 @@ hottubsDesc,,,,Nothing like a long soak in the jacuzzi after a long day of ass k
 tubsDesc,,,,Get the Grimes out with this stylish mud remover.\n [ Crafted in [dd6262]Cement Mixer[-]  ],,,,
 toolChestdesc,,,,Store all of your tools in this chest.\n [ Crafted in [dd6262]Decorating Station[-]  ],,,,
 seedFlower,,,,Flower Seed,,"Samen: Blumen",,
-trainCar01,,,,Mineral Trolley 1 (Large Storage),,,,
-trainCar02,,,,Mineral Trolley 2 (Large Storage),,,,
+trainCar01,,,,Mineral Trolley 1 (Large Storage),,Bergbaulore 1 (großer Stauraum),,
+trainCar02,,,,Mineral Trolley 2 (Large Storage),,Bergbaulore 2 (großer Stauraum),,
 trainCarsdesc,,,,This long abandoned trolley car still has some remnants of minerals and ores that were mined in times past.\n [ Crafted in [dd6262]Decorating Station[-]  ],,,,
-trashCanSmoker,,,,Trash Can Smoker,,,,
-trashCanSmokerDesc,,,,Take it from the king of soul barbecue Bradmin this trash can smoker may seem like a bad idea but when you taste the delicious meat you can grill from it you will not be disappointed.,,,,
-zombieRotter01,entityclasses,Entity,New,Rotting Walker,,,,
-zombieRotter02,entityclasses,Entity,New,Rotting Walker,,,,
-zombieRotter03,entityclasses,Entity,New,Rotting Walker,,,,
-zombieRotter04,entityclasses,Entity,New,Rotting Walker,,,,
-zombieRotter05,entityclasses,Entity,New,Rotting Walker,,,,
-zombieRotter06,entityclasses,Entity,New,Rotting Walker,,,,
+trashCanSmoker,,,,Trash Can Smoker,,Mülltonnen-Smoker,,
+trashCanSmokerDesc,,,,Take it from the king of soul barbecue Bradmin this trash can smoker may seem like a bad idea but when you taste the delicious meat you can grill from it you will not be disappointed.,,"Nimm es vom König des Barbecue Bradmin, dieser Smoker gemacht aus einer Mülltonne, mag zwar aussehen wie eine schlechte Idee, aber warte bis du von dem zarten Gegrillen gekostet hast, es wird dich nicht enttäuschen.",,
+zombieRotter01,entityclasses,Entity,New,Rotting Walker,,Verrottender Walker,,
+zombieRotter02,entityclasses,Entity,New,Rotting Walker,,Verrottender Walker,,
+zombieRotter03,entityclasses,Entity,New,Rotting Walker,,Verrottender Walker,,
+zombieRotter04,entityclasses,Entity,New,Rotting Walker,,Verrottender Walker,,
+zombieRotter05,entityclasses,Entity,New,Rotting Walker,,Verrottender Walker,,
+zombieRotter06,entityclasses,Entity,New,Rotting Walker,,Verrottender Walker,,
 kukri,,,,Kukri,,Kukri,,
 kukriDesc,,,,The Kukri is razor sharp and quite deadly when it comes to dealing with the undead. This can be painted different colors but be careful as the result will be what your quality in Blades is.\n [ Crafted in [dd6262]Advanced Workbench[-]  ],,"Der Kukri ist rasiermesserscharf und ziemlich tödlich, wenn es darum geht, mit den Untoten umzugehen. Er kann mit verschiedenen Farben bemalt werden, aber sei vorsichtig, denn das Ergebnis ist, was dein Skill in Klingenwaffen erlaubt.\n [ Herzustellen in der [dd6262]verbesserten Werkbank[-] ]",,
 christmasTreeLarge,,,,Christmas Tree (Large),,Großer Weihnachtsbaum,,
@@ -7764,8 +7765,8 @@ qc_hungryman,items,Challenge Note,KgNone,Hungry Man Special Challenge,Défi « U
 qc_scavengersdelight,items,Challenge Note,KgNone,Scavengers Delight Challenge,Défi « Un monde d'hommes »,Herausforderung: Warme Mahlzeiten,,Desafío “Devorahombres”
 qc_happymeal,items,Challenge Note,KgNone,A Happy Meal Challenge,Défi « Un monde d'hommes »,Herausforderung: Happy Meal,,Desafío “Devorahombres”
 qc_sinderpickle,items,Challenge Note,KgNone,Sinders Pickle Challenge,Défi « Un monde d'hommes »,Herausforderung: Sinders Gewürzgurken,,Desafío “Devorahombres”
-qc_walterwhitewouldbeproud,items,Challenge Note,KgNone,High as F Challenge,Défi « Un monde d'hommes »,Herausforderung: High as F,,Desafío “Devorahombres”
-qc_disposingoftherotters,items,Zombie Challenge Note,KgNone,Rotter Disposal Challenge,Défi « Un monde d'hommes »,Herausforderung: Rotter Disposal,,Desafío “Devorahombres”
+qc_walterwhitewouldbeproud,items,Challenge Note,KgNone,High as F Challenge,Défi « Un monde d'hommes »,Herausforderung: Die volle Dröhnung,,Desafío “Devorahombres”
+qc_disposingoftherotters,items,Zombie Challenge Note,KgNone,Rotter Disposal Challenge,Défi « Un monde d'hommes »,Herausforderung: Beseitige Verrottende,,Desafío “Devorahombres”
 cookies,,,,Batch of Cookies,,Ein Stapel Cookies,,
 cookiesDesc,,,,Who needs butter when you can have some of these delicious sugar cookies.\n [ Crafted in [dd6262]Stoves[-] with a Skillet. ],,"Wer braucht Butter, wenn du einige dieser köstlichen Zuckerkekse haben kannst.\n [ Herzustellen im [dd6262]Ofen[-] mit einer Bratpfanne ]",,
 bbqRibs,,,,BBQ Ribs,,BBQ Rippchen,,
@@ -7801,7 +7802,7 @@ infectedArrow,,,,Infected Arrow (Ammo),,Infizierter Pfeil (Mun),,
 infectedStonecrossbowBolt,,,,Infected Crossbow Bolt (Ammo),,Infizierter Armbrustbolzen (Mun),,
 infectedArrowDesc,,,,An arrow dipped in the blood of the undead will certainly cause an infection immediately.,,"Ein Pfeil, der mit dem Blut der Untoten überzogen wurde, wird sofort eine Infektion verursachen.",,
 kukriRed,,,,Kukri (Red),,Kukri (rot),,
-kukriSkulls,,,,Kukri (Skulls),,,,
+kukriSkulls,,,,Kukri (Skulls),,Kukri (Skulls),,
 kukriCamo,,,,Kukri (Camo),,Kukri (tarn),,
 kukriBlue,,,,Kukri (Blue),,Kukri (blau),,
 kukriGreen,,,,Kukri (Green),,Kukri (grün),,
@@ -7840,3 +7841,17 @@ jerkyDesc,,,,Jerky is made from drying and curing meat and can give a great boos
 classSelectionReward,,,,Class Selection Reward,,,,
 coleSlawDesc,,,,You cant have that fine barbecue food without some good old slaw.\n [ Crafted in [dd6262]Blender[-]  ],,,,
 bbqFoodDesc,,,,The best BBQ that Brad has to offer for all tailgating and party needs or even just for that lazy Sunday. Pull up a seat because these are going to take a while but they are worth the wait.\n [ Crafted in [dd6262]BBQ Grills and Smokers[-] ],,,,
+reggieSpecial,,,,Reggie Special,,,,
+reggieSpecialDesc,,,,Hunting down those small bastards and those metal spheres can be dangerous. Take the trusty Reggie Special with you to your late night cemetary raids and come out sort of unscathed.,,,,
+pinupSchematic,,,,Pin Up Collection Schematic,,,,
+pinupSchematicDesc,,,,Everyone needs a distraction and these posters provide just that. Best used at bedrock.,,,,
+homeAppliancesSchematic,,,,Home Appliances Schematic,,,,
+homeAppliancesSchematicDesc,,,,Redo your kitchen with these exquisite appliances.,,,,
+homeFurnishingsSchematic,,,,Home Furnishings Schematic,,,,
+homeFurnishingsSchematicDesc,,,,Luxurious couches and chairs can be yours to have.,,,,
+bathroomFurnishingsSchematic,,,,Bathroom Makevoer Schematic,,,,
+bathroomFurnishingsSchematicDesc,,,,Your bathroom needs a makeover. Its time.,,,,
+homeGardeningSchematic,,,,Home Gardening Schematic,,,,
+homeGardeningSchematicDesc,,,,Everyone needs some tranquility. Learn to plant pretty flowers and craft garden furniture.,,,,
+diamondUpgradesSchematic,,,,Diamond Upgrades Schematic,,,,
+diamondUpgradesSchematicDesc,,,,Learn how to take your tool and make it rock hard with the ability to cut through anything.,,,,
