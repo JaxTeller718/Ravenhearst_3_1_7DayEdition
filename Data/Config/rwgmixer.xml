@@ -649,7 +649,7 @@
 			<prefab name="xcostum_Prison(by_Limodur)" prob="0.3"/>
 			<prefab name="ouch_airport2" prob="0.3"/>
 			<prefab name="ouch_airport1" prob="0.3"/>
-			<prefab name="xcostum_Manorhouse(by_WereWulfen)" prob="0.3"/>
+			<prefab name="ravenhearst_xcostum_Manorhouse(by_WereWulfen)" prob="0.3"/>
 			<prefab name="xcostum_House_AF06D(29x30)(by_Nodabba)" prob="0.2"/>
 			<prefab name="xcostum_House_AF06R(29x30)(by_Nodabba)" prob="0.2"/>
 			<prefab name="xcostum_Hydro_Plant(by_LuckyStar)"/>
