@@ -151,3 +151,27 @@
 -Oil recipes and description changed
 
 -Removed Medieval Tower from towns
+
+----------------------------------------------------
+
+-Added Reggie Special to Shotgun Exclusive
+
+-Added Quest for Reggie Shotgun
+
+-Added Galil and HK to Rifles Schematic
+
+-Added Vintorez to Rifle Exclusive
+
+-Added multiple new schematics for deco items
+
+-Added a few more food recipes to various cookbooks
+
+-All craftable items are no longer able to be sold to trader (may be adjusted a bit in future updates)
+
+-Added more German Translations thanks to Scomar
+
+-Fixed Extended Magazine Icons
+
+-Added Biker Lady to Biker Group.
+
+-Cleaned up Items.xml numbering

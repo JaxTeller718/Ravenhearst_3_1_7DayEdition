@@ -1287,6 +1287,7 @@
 		<!-- The Boobie Trap -->
 		<entity name="zombieBiker" prob="3"/>
 		<entity name="zombieStripper" prob="4"/>
+		<entity name="sanZombieBikerChick" prob="2"/>
 		<entity name="zombieUtilityWorker"/>
 		<entity name="zombieFarmer"/>
 		<entity name="zombieSkateboarder"/>
